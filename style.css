@@ -227,7 +227,7 @@ section{padding:88px 0}
 
 /* Footer */
 footer{background:#0B1822;color:#AFBCC3;padding:56px 0 30px;font-size:.92rem}
-.foot-grid{display:grid;grid-template-columns:1.4fr 1fr 1fr;gap:36px}
+.foot-grid{display:grid;grid-template-columns:1.3fr 1fr 1fr 1fr;gap:32px}
 @media (max-width:760px){.foot-grid{grid-template-columns:1fr}}
 footer .brand{color:#fff}
 footer .brand small{color:#8A99A2}
@@ -314,3 +314,30 @@ footer a:hover{color:#fff;text-decoration:underline}
 .visual.photo .chip{z-index:2}
 .visual.photo .chip.c1{top:8%;left:-6%}.visual.photo .chip.c2{top:46%;right:-6%}.visual.photo .chip.c3{bottom:8%;left:-4%}
 @media (max-width:520px){.visual.photo .chip.c1,.visual.photo .chip.c3{left:8px}.visual.photo .chip.c2{right:8px}}
+/* Guides */
+.crumbs{font-size:.86rem;color:var(--ink-3);margin-bottom:18px}
+.crumbs a{color:var(--teal);text-decoration:none}
+.crumbs a:hover{text-decoration:underline}
+.prose .intro{font-size:1.12rem;color:var(--ink-2)}
+.prose .updated{font-size:.84rem;color:var(--ink-3);margin-top:-6px}
+.prose table{width:100%;border-collapse:collapse;margin:18px 0 8px;font-size:.95rem;background:var(--card);border-radius:var(--radius-sm);overflow:hidden;box-shadow:0 0 0 1px var(--line)}
+.prose th,.prose td{text-align:left;padding:11px 14px;border-bottom:1px solid var(--line);vertical-align:top}
+.prose th{background:var(--teal-soft);color:var(--ink);font-weight:700}
+.prose tr:last-child td{border-bottom:0}
+.table-scroll{overflow-x:auto}
+.prose .note{font-size:.86rem;color:var(--ink-3)}
+.cta-box{margin:40px 0 8px;padding:26px;border-radius:var(--radius);background:linear-gradient(135deg,var(--teal) 0%,#0A5A5A 100%);color:#fff}
+.cta-box h2{color:#fff;margin:0 0 8px;font-size:1.3rem}
+.cta-box p{color:#DDEFEC;margin:0 0 18px}
+.related{margin-top:36px;padding-top:22px;border-top:1px solid var(--line)}
+.related h2{margin-top:0;font-size:1.1rem}
+.related ul{list-style:none;padding:0;display:grid;gap:10px}
+.related a{color:var(--teal);font-weight:600;text-decoration:none}
+.related a:hover{text-decoration:underline}
+.guides{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px}
+.guide-card{display:block;background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:20px;text-decoration:none;color:var(--ink);transition:transform .2s,box-shadow .2s}
+.guide-card:hover{transform:translateY(-3px);box-shadow:0 12px 28px -14px rgba(16,33,46,.35)}
+.guide-card h3{font-size:1.02rem;margin:0 0 6px}
+.guide-card p{color:var(--ink-2);font-size:.92rem;margin:0}
+.guide-card span{display:inline-block;margin-top:10px;color:var(--teal);font-weight:700;font-size:.88rem}
+.prose td:nth-child(2){white-space:nowrap}
