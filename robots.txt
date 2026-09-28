@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /merci.html
+
+Sitemap: https://punaises-de-lit-toulouse.fr/sitemap.xml
