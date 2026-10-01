@@ -15,7 +15,7 @@ Dossier `_build/` : non publié (Jekyll ignore les dossiers commençant par `_`)
 1. `git clone --depth 1 https://github.com/maxime93130/punaises-de-lit-toulouse.git site && cd site`
 2. Lire ce fichier et le journal en bas. Prendre la prochaine tâche « À faire » de la file.
 3. Rechercher (WebSearch / WebFetch) : SERP du mot-clé visé, pages concurrentes, sources officielles.
-4. Écrire la page avec `_build/gen_guides.py` (ajouter un appel `guide(...)` et l'entrée dans `GUIDES`), copier les scripts à la racine, lancer `python3 gen_pages.py && python3 gen_guides.py`, mettre à jour `sitemap.xml`, et ajouter la carte dans la section `#guides` de index.html si c'est un guide majeur.
+4. Écrire la page avec `_build/gen_guides.py` (ajouter un appel `guide(...)` avec `date='AAAA-MM-JJ'` et l'entrée dans `GUIDES`), copier les scripts à la racine, lancer `python3 gen_guides.py` (gen_pages.py seulement si une page légale change : il réécrit merci, 404, mentions, confidentialité), mettre à jour `sitemap.xml`, et ajouter la carte dans la section `#guides` de index.html si c'est un guide majeur.
 5. Vérifier : pas de « — », liens internes OK, rendu mobile (Playwright), JSON-LD valide.
 6. Publier : Chrome > https://github.com/maxime93130/punaises-de-lit-toulouse/upload/main (sous-dossiers : /upload/main/<dossier>), file_upload des fichiers modifiés depuis le clone local, cliquer « Commit changes » par coordonnées (le clic par ref échoue parfois), vérifier le commit dans /commits/main. Retirer gen_*.py de la racine (ne pas les uploader à la racine).
 7. Mettre à jour ce fichier (statut + journal) et l'uploader dans `/upload/main/_build`.
@@ -23,8 +23,10 @@ Dossier `_build/` : non publié (Jekyll ignore les dossiers commençant par `_`)
 9. Résumé court envoyé à Maxime (3 à 5 lignes).
 
 ## File de tâches (dans l'ordre)
-- [ ] Search Console : ajouter la propriété de domaine avec le compte Google de Chrome (maxime@musokastudio.com), vérification par enregistrement TXT dans la zone DNS OVH de punaises-de-lit-toulouse.fr (ajouter uniquement le TXT), envoyer sitemap.xml, demander l'indexation des 6 pages. Puis Bing Webmaster Tools par import depuis Search Console.
-- [ ] Guide : punaises de lit et étudiants à Toulouse (résidences, colocations, que faire, qui paie). Toulouse est une grande ville étudiante.
+- [x] Search Console : ajouter la propriété de domaine avec le compte Google de Chrome (maxime@musokastudio.com), vérification par enregistrement TXT dans la zone DNS OVH de punaises-de-lit-toulouse.fr (ajouter uniquement le TXT), envoyer sitemap.xml, demander l'indexation des 6 pages. Puis Bing Webmaster Tools par import depuis Search Console.
+  - Fait le 2026-10-01 : propriété préfixe d'URL https://punaises-de-lit-toulouse.fr/ vérifiée par fichier HTML (google442049fc25e1276f.html à la racine, NE PAS SUPPRIMER), sitemap envoyé, indexation demandée pour les 6 pages. Propriété de domaine créée mais non vérifiée (session OVH expirée) : TXT à ajouter si Maxime se reconnecte : google-site-verification=oKil_8upzTKsjL2eH9qUKFsf9eKvbwNDBXjXi8Ijkpo
+- [ ] (Maxime) Bing Webmaster Tools : se connecter avec le compte Google puis « Importer depuis Google Search Console » (création de compte et autorisation OAuth à faire par Maxime).
+- [x] Guide : punaises de lit et étudiants à Toulouse (résidences, colocations, que faire, qui paie). Toulouse est une grande ville étudiante.
 - [ ] Guide : combien de temps pour se débarrasser des punaises de lit.
 - [ ] Guide : faut-il jeter son matelas ? (housse anti-punaises, traitement, dépôt en déchetterie)
 - [ ] Guide : traitement à la vapeur sèche (principe, limites, prix).
@@ -40,7 +42,8 @@ Dossier `_build/` : non publié (Jekyll ignore les dossiers commençant par `_`)
 - [ ] Mise à jour trimestrielle des prix (vérifier les sources, mettre à jour dates et chiffres).
 
 ## Mots-clés suivis
-punaise de lit toulouse (320/mois, difficulté 11) ; traitement punaise de lit toulouse ; prix traitement punaises de lit toulouse ; chien détecteur punaises de lit toulouse ; punaises de lit locataire propriétaire.
+punaise de lit toulouse (320/mois, difficulté 11) ; punaises de lit étudiant toulouse / crous ; traitement punaise de lit toulouse ; prix traitement punaises de lit toulouse ; chien détecteur punaises de lit toulouse ; punaises de lit locataire propriétaire.
 
 ## Journal
 - 2026-09-28 : mise en ligne du site + 5 guides (prix, détection canine, reconnaître, que faire, locataire/propriétaire). HTTPS en attente d'émission du certificat.
+- 2026-10-01 : Search Console configurée (préfixe d'URL, vérif. fichier HTML car session OVH expirée), sitemap envoyé, indexation demandée (accueil + 5 guides). Guide « étudiants à Toulouse » publié (Crous, studio, colocation, ADIL 31 ; sources : règlement intérieur Crous Toulouse 2025-26, Université de Toulouse fév. 2025). Correctif CSS : marges latérales manquantes sur mobile pour toutes les pages guides. Gmail : aucune réponse d'artisan, aucune demande de particulier (2 rebonds d'emails du 28/09, dont contact@hlnuisible.fr invalide). Indexation : site non encore indexé (normal, 3 jours).

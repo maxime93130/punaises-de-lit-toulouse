@@ -8,9 +8,15 @@ GUIDES=[
  ('reconnaitre-punaises-de-lit.html','Reconnaître les punaises de lit'),
  ('que-faire-punaises-de-lit.html','Que faire en attendant le pro'),
  ('punaises-de-lit-locataire-proprietaire.html','Locataire ou propriétaire : qui paie ?'),
+ ('punaises-de-lit-etudiants-toulouse.html','Étudiants : résidence, Crous, colocation'),
 ]
-def guide(fn,title,desc,h1,crumb,body,faq=None):
-    ld=[{"@context":"https://schema.org","@type":"Article","headline":h1,"description":desc,"datePublished":DATE,"dateModified":DATE,"inLanguage":"fr-FR","mainEntityOfPage":BASE+fn,"image":BASE+"og-image.png","author":{"@type":"Organization","name":"Tada House","url":BASE},"publisher":{"@type":"Organization","name":"Tada House","logo":{"@type":"ImageObject","url":BASE+"favicon.svg"}}},
+MOIS=['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre']
+def fr_date(d):
+    y,m,j=d.split('-'); return f"{int(j)} {MOIS[int(m)-1]} {y}"
+
+def guide(fn,title,desc,h1,crumb,body,faq=None,date=None):
+    date=date or DATE
+    ld=[{"@context":"https://schema.org","@type":"Article","headline":h1,"description":desc,"datePublished":date,"dateModified":date,"inLanguage":"fr-FR","mainEntityOfPage":BASE+fn,"image":BASE+"og-image.png","author":{"@type":"Organization","name":"Tada House","url":BASE},"publisher":{"@type":"Organization","name":"Tada House","logo":{"@type":"ImageObject","url":BASE+"favicon.svg"}}},
         {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Punaises de lit Toulouse","item":BASE},{"@type":"ListItem","position":2,"name":crumb,"item":BASE+fn}]}]
     if faq:
         ld.append({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":q,"acceptedAnswer":{"@type":"Answer","text":a}} for q,a in faq]})
@@ -19,7 +25,7 @@ def guide(fn,title,desc,h1,crumb,body,faq=None):
     full=f'''<div class="wrap page"><article class="prose">
 <nav class="crumbs" aria-label="Fil d'Ariane"><a href="/">Accueil</a> › {crumb}</nav>
 <h1>{h1}</h1>
-<p class="updated">Mis à jour le 28 septembre 2026</p>
+<p class="updated">Mis à jour le {fr_date(date)}</p>
 {body}
 <div class="cta-box"><h2>Un professionnel certifié vous rappelle</h2><p>Décrivez votre situation en une minute. Une entreprise locale vous rappelle pour un diagnostic et un devis gratuits, sans engagement.</p><a class="btn" href="/#devis">Demander mon devis gratuit <svg aria-hidden="true"><use href="#i-arrow"/></svg></a></div>
 <div class="related"><h2>À lire aussi</h2><ul>{rel}</ul></div>
@@ -188,4 +194,60 @@ guide('punaises-de-lit-locataire-proprietaire.html',
 <h2>Vous êtes propriétaire</h2>
 <p>Agissez vite : une infestation traitée tôt coûte beaucoup moins cher. Faites intervenir une entreprise certifiée, informez le syndic si besoin, et conservez les justificatifs. Un traitement réalisé dans les règles protège aussi vos relations avec le locataire.</p>
 <p class="note">Cette page donne une information générale et ne remplace pas un conseil juridique personnalisé.</p>''')
+
+# 6. ETUDIANTS (2026-10-01)
+guide('punaises-de-lit-etudiants-toulouse.html',
+"Punaises de lit étudiant à Toulouse : résidence Crous, colocation",
+"Étudiant à Toulouse avec des punaises de lit ? Que faire en résidence Crous, en studio ou en colocation, qui paie le traitement et à qui demander de l'aide gratuitement.",
+"Punaises de lit et étudiants à Toulouse : que faire et qui paie ?",
+"Étudiants à Toulouse",
+'''<p class="intro">Toulouse compte plus de 110 000 étudiants inscrits dans les établissements du site universitaire toulousain, dont environ 90 % dans la métropole. À chaque rentrée, les déménagements, les meubles d'occasion et les retours de vacances favorisent le transport involontaire de punaises de lit. Voici quoi faire selon que vous logez en résidence Crous, en studio loué ou en colocation.</p>
+<h2>Pourquoi les étudiants sont souvent concernés</h2>
+<ul>
+<li><strong>Les déménagements fréquents</strong> : cartons, matelas et valises passent d'un logement à l'autre.</li>
+<li><strong>Le mobilier d'occasion</strong> : un sommier ou un canapé récupéré peut abriter des punaises et des œufs invisibles.</li>
+<li><strong>Les logements collectifs</strong> : résidences et colocations multiplient les allers et venues, et une infestation peut passer d'une chambre à l'autre par les gaines et les plinthes.</li>
+</ul>
+<p>Avoir des punaises de lit n'a rien à voir avec l'hygiène : elles se nourrissent de sang, pas de saleté. Il n'y a aucune honte à le signaler, et plus vous le faites tôt, plus le traitement est simple.</p>
+<h2>Vous logez en résidence Crous</h2>
+<p>Le règlement intérieur des résidences universitaires du Crous de Toulouse (édition 2025-2026) est clair : si vous constatez la présence de nuisibles, notamment de punaises de lit, vous devez <strong>en informer la résidence sans délai</strong>. Le guide du résident demande de le signaler à l'accueil de la résidence et de <strong>ne pas utiliser d'insecticide</strong>, mais de suivre le protocole interne.</p>
+<p><strong>Qui paie ?</strong> Selon ce même règlement, les frais sont engagés par le Crous. Ils ne peuvent être facturés au résident qu'en cas de non-signalement de l'infestation ou de non-respect du protocole de désinsectisation. Autrement dit : signaler vite et suivre les consignes vous protège.</p>
+<ol>
+<li>Prévenez l'accueil de votre résidence dès les premiers signes (piqûres, taches noires sur le matelas, insecte vu).</li>
+<li>Gardez une trace écrite de votre signalement (email, photo datée).</li>
+<li>Suivez le protocole qu'on vous remet : lavage du linge, sacs fermés, accès à la chambre pour l'entreprise.</li>
+<li>Ne déménagez pas vos affaires chez un ami ou chez vos parents avant traitement : vous risquez d'y emmener les punaises.</li>
+</ol>
+<h2>Vous louez un studio ou une chambre (meublé ou vide)</h2>
+<p>Les règles sont celles de toute location : le bailleur doit fournir un logement décent, <strong>exempt de toute infestation d'espèces nuisibles et parasites</strong> (article 6 de la loi du 6 juillet 1989, modifié par la loi ELAN de 2018). Le traitement est donc en principe à sa charge, que le logement soit meublé ou non. Il peut demander au locataire d'en supporter le coût s'il prouve que celui-ci est à l'origine de l'infestation, par exemple avec un meuble d'occasion infesté.</p>
+<p>Prévenez votre propriétaire ou l'agence par écrit, avec photos et dates, et demandez une intervention rapide. Le détail des démarches figure dans notre guide <a href="/punaises-de-lit-locataire-proprietaire.html">locataire ou propriétaire : qui paie ?</a></p>
+<h2>Vous êtes en colocation</h2>
+<p>En colocation, les punaises ne restent jamais dans une seule chambre très longtemps. Quelques règles de bon sens :</p>
+<ul>
+<li><strong>Prévenez tout de suite vos colocataires</strong>, même si vous êtes le seul à être piqué : certaines personnes ne réagissent pas aux piqûres.</li>
+<li><strong>Faites un signalement commun</strong> au propriétaire ou à l'agence, par écrit.</li>
+<li><strong>Faites traiter tout le logement en même temps</strong> : traiter une seule chambre conduit presque toujours à une réinfestation.</li>
+<li><strong>Appliquez tous le même protocole</strong> : linge lavé à 60 °C, affaires en sacs fermés, pas de déplacement d'affaires entre les chambres.</li>
+</ul>
+<p>Si un désaccord apparaît sur la prise en charge entre colocataires ou avec le bailleur, l'ADIL de Haute-Garonne peut vous informer gratuitement sur votre situation précise.</p>
+<h2>Avant d'emménager : les réflexes qui évitent les ennuis</h2>
+<ul>
+<li><strong>À l'état des lieux d'entrée</strong>, inspectez le matelas, le sommier et les plinthes avec une lampe. Notez et photographiez toute tache suspecte.</li>
+<li><strong>Meubles et vêtements d'occasion</strong> : examinez-les avant de les rentrer. Le site officiel stop-punaises.gouv.fr recommande de laver les textiles à 60 °C minimum ou de les passer au sèche-linge chaud au moins 30 minutes.</li>
+<li><strong>Au retour de voyage</strong>, ne posez pas votre valise sur le lit, inspectez vos affaires et passez l'aspirateur dans la valise.</li>
+</ul>
+<h2>Les aides et contacts gratuits à Toulouse</h2>
+<ul>
+<li><strong>ADIL de Haute-Garonne (ADIL 31)</strong> : 4 rue Furgole, 31000 Toulouse, 05 61 22 46 22. Conseil juridique gratuit et neutre sur vos droits de locataire.</li>
+<li><strong>Numéro national d'information</strong> : 0806 706 806 (prix d'un appel local), et le site <a href="https://stop-punaises.gouv.fr/" rel="noopener">stop-punaises.gouv.fr</a>.</li>
+<li><strong>Votre résidence Crous</strong> : l'accueil de votre résidence pour tout signalement.</li>
+<li><strong>Votre médecin ou votre pharmacien</strong> si les piqûres vous gênent beaucoup ou provoquent une réaction importante.</li>
+</ul>
+<p>Pour un premier tri, consultez aussi <a href="/reconnaitre-punaises-de-lit.html">comment reconnaître les punaises de lit</a> et <a href="/que-faire-punaises-de-lit.html">que faire en attendant le professionnel</a>.</p>
+<p class="note">Sources consultées le 1er octobre 2026 : règlement intérieur des résidences et guide du résident du Crous de Toulouse, document de caractérisation du site universitaire de Toulouse (Université de Toulouse, février 2025, effectifs 2023-2024), stop-punaises.gouv.fr, ANIL. Cette page donne une information générale et ne remplace pas un conseil juridique personnalisé.</p>''',
+faq=[("Je suis en résidence Crous à Toulouse : qui paie le traitement contre les punaises de lit ?","D'après le règlement intérieur des résidences du Crous de Toulouse, les frais de désinsectisation sont engagés par le Crous. Ils ne peuvent être facturés au résident qu'en cas de non-signalement de l'infestation ou de non-respect du protocole. Signalez donc le problème à l'accueil sans attendre."),
+("Puis-je utiliser un insecticide dans ma chambre ?","Non, c'est déconseillé. Le Crous demande de ne pas utiliser d'insecticide et de suivre le protocole de la résidence. Les produits grand public sont peu efficaces sur les punaises de lit et peuvent les disperser."),
+("En colocation, faut-il traiter tout l'appartement ?","Oui, c'est fortement recommandé. Les punaises se déplacent d'une pièce à l'autre et traiter une seule chambre mène presque toujours à une réinfestation. Signalez le problème ensemble au bailleur, par écrit."),
+("Je loue un studio meublé : le propriétaire doit-il payer ?","En principe oui. Le bailleur doit fournir un logement exempt de nuisibles et de parasites, meublé ou non. Il ne peut vous faire payer que s'il prouve que vous êtes à l'origine de l'infestation.")],
+date='2026-10-01')
 print('ok')
