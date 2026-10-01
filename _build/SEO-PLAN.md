@@ -9,8 +9,7 @@ Dossier `_build/` : non publié (Jekyll ignore les dossiers commençant par `_`)
 - Pas de pages villes copiées-collées : une page commune n'est créée que si elle contient des informations propres à la commune (parc de logements, étudiants, transports, sources locales).
 - Ne jamais toucher aux DNS email (MX, SPF, DKIM) ni au formulaire sans nécessité.
 - Pas de fiche Google Business Profile (interdit pour un service de mise en relation).
-- Aucun email envoyé à des tiers sans accord de Maxime : les prises de contact (liens, partenaires) sont préparées en brouillons Gmail.
-
+- Emails à des tiers (prospection d'artisans, demandes de liens, partenaires) : Claude les envoie lui-même depuis le webmail Zimbra OVH (expéditeur Tada House <contact@tadahouse.com>), jamais depuis le connecteur Gmail. Messages courts et professionnels, aucun engagement de prix ou de contrat sans Maxime (proposer un appel avec lui).
 ## Méthode d'une séance
 1. `git clone --depth 1 https://github.com/maxime93130/punaises-de-lit-toulouse.git site && cd site`
 2. Lire ce fichier et le journal en bas. Prendre la prochaine tâche « À faire » de la file.
@@ -38,7 +37,7 @@ Dossier `_build/` : non publié (Jekyll ignore les dossiers commençant par `_`)
 - [ ] Page communes : Colomiers.
 - [ ] Page communes : Tournefeuille.
 - [ ] Page communes : Balma, L'Union, Ramonville (une page chacune si données).
-- [ ] Liens entrants : liste de 15 à 20 annuaires et sites locaux pertinents (associations de locataires, blogs toulousains, annuaires de services) + brouillons Gmail de demande (non envoyés), depuis contact@tadahouse.com.
+- [ ] Liens entrants : liste de 15 à 20 annuaires et sites locaux pertinents (associations de locataires, blogs toulousains, annuaires de services) + envoi des demandes depuis Zimbra (contact@tadahouse.com).
 - [ ] Mise à jour trimestrielle des prix (vérifier les sources, mettre à jour dates et chiffres).
 
 ## Mots-clés suivis
