@@ -9,6 +9,7 @@ GUIDES=[
  ('que-faire-punaises-de-lit.html','Que faire en attendant le pro'),
  ('punaises-de-lit-locataire-proprietaire.html','Locataire ou propriétaire : qui paie ?'),
  ('punaises-de-lit-etudiants-toulouse.html','Étudiants : résidence, Crous, colocation'),
+ ('combien-de-temps-se-debarrasser-punaises-de-lit.html','Combien de temps pour s\'en débarrasser ?'),
 ]
 MOIS=['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre']
 def fr_date(d):
@@ -250,4 +251,57 @@ faq=[("Je suis en résidence Crous à Toulouse : qui paie le traitement contre l
 ("En colocation, faut-il traiter tout l'appartement ?","Oui, c'est fortement recommandé. Les punaises se déplacent d'une pièce à l'autre et traiter une seule chambre mène presque toujours à une réinfestation. Signalez le problème ensemble au bailleur, par écrit."),
 ("Je loue un studio meublé : le propriétaire doit-il payer ?","En principe oui. Le bailleur doit fournir un logement exempt de nuisibles et de parasites, meublé ou non. Il ne peut vous faire payer que s'il prouve que vous êtes à l'origine de l'infestation.")],
 date='2026-10-01')
+# 7. DUREE (2026-10-05)
+guide('combien-de-temps-se-debarrasser-punaises-de-lit.html',
+"Combien de temps pour se débarrasser des punaises de lit ?",
+"Combien de temps faut-il pour se débarrasser des punaises de lit ? Nombre de passages, intervalle de 15 jours, surveillance après traitement : le calendrier réaliste et ce qui le rallonge.",
+"Combien de temps faut-il pour se débarrasser des punaises de lit ?",
+"Durée d'un traitement",
+'''<p class="intro">On aimerait que tout soit réglé en une journée. En pratique, venir à bout des punaises de lit prend plutôt quelques semaines, puis un ou deux mois de surveillance. La raison est simple : il faut atteindre les insectes qui sortent des œufs après le premier passage. Voici le calendrier réaliste, étape par étape, et ce qui peut le raccourcir ou le rallonger.</p>
+<h2>La réponse courte</h2>
+<ul>
+<li><strong>Un traitement chimique se fait en au moins 2 passages, parfois 3</strong>, espacés d'environ 15 jours (recommandation du rapport national « Punaises de lit en France », CNEV, 2015).</li>
+<li><strong>Il faut ensuite surveiller 1 à 2 mois</strong> : c'est l'absence durable de nouvelles piqûres et de nouvelles traces sur cette période qui permet de considérer l'infestation comme éliminée (même source).</li>
+<li><strong>Au total, comptez donc en général entre un mois et demi et trois mois</strong> entre le premier passage et la fin de la surveillance, selon le nombre de passages et le niveau d'infestation.</li>
+</ul>
+<h2>Pourquoi un seul passage ne suffit presque jamais</h2>
+<p>Une femelle pond plusieurs œufs par jour, environ 200 au cours de sa vie, et les œufs mettent <strong>entre 6 et 17 jours à éclore</strong> (Santé Canada). Or les œufs, collés dans les recoins, sont beaucoup plus difficiles à atteindre que les insectes. Le rapport du CNEV le résume ainsi : la désinsectisation chimique doit être pratiquée au moins deux fois, avec 15 jours d'intervalle, pour tuer les jeunes issus des œufs.</p>
+<p>Le deuxième passage n'est donc pas un signe d'échec : il est prévu dès le départ. Méfiez-vous d'une offre qui promet de tout régler en une seule application d'insecticide sans visite de contrôle.</p>
+<h2>Le calendrier type d'un traitement</h2>
+<ol>
+<li><strong>Avant l'intervention</strong> : le professionnel fait un premier échange, souvent par téléphone, et vous remet les consignes de préparation du logement (stop-punaises.gouv.fr). Un diagnostic, visuel ou avec un chien détecteur, permet de délimiter les pièces touchées.</li>
+<li><strong>Jour 0, premier passage</strong> : traitement des zones infestées (literie, sommier, plinthes, meubles proches du lit).</li>
+<li><strong>Environ 15 jours plus tard, deuxième passage</strong> : il vise les jeunes punaises sorties des œufs entre-temps.</li>
+<li><strong>Si besoin, un troisième passage</strong> environ 15 jours après, quand l'infestation était importante ou que des signes persistent.</li>
+<li><strong>Puis 1 à 2 mois de surveillance</strong> : vous vérifiez régulièrement le matelas et les coutures, et vous signalez à l'entreprise toute nouvelle piqûre ou trace.</li>
+</ol>
+<p>Les méthodes non chimiques (vapeur sèche, chaleur, froid) suivent des protocoles qui varient d'une entreprise à l'autre. Dans tous les cas, demandez que le devis précise <strong>le nombre de passages prévus, leur intervalle et la visite de contrôle</strong>.</p>
+<h2>Ce qui rallonge la durée</h2>
+<ul>
+<li><strong>Attendre avant d'agir</strong> : chaque semaine compte, puisque de nouvelles générations apparaissent en continu.</li>
+<li><strong>Une préparation incomplète</strong> : linge non lavé, affaires laissées en vrac au sol, pièces inaccessibles le jour du passage.</li>
+<li><strong>Déplacer ses affaires</strong> dans une autre pièce ou chez des proches avant le traitement : on déplace aussi les punaises.</li>
+<li><strong>Traiter une seule pièce</strong> ou un seul logement d'un immeuble touché : la réinfestation vient alors des pièces ou des voisins non traités.</li>
+<li><strong>Les insecticides grand public</strong> utilisés en amont, qui sont peu efficaces sur les punaises et peuvent les disperser.</li>
+</ul>
+<h2>Partir quelques semaines ne règle rien</h2>
+<p>Laisser le logement vide pour « affamer » les punaises ne fonctionne pas : elles peuvent survivre plusieurs mois sans se nourrir. Le rapport du CNEV cite jusqu'à 135 jours à 22 °C et 277 jours à 18 °C, et Santé Canada évoque jusqu'à 18 mois dans certaines conditions. À votre retour, elles seront toujours là.</p>
+<h2>Ce que vous pouvez faire pour accélérer</h2>
+<ul>
+<li><strong>Linge et textiles</strong> : lavage en machine à 60 °C ou plus, ou au moins 30 minutes au sèche-linge à chaud (stop-punaises.gouv.fr).</li>
+<li><strong>Petits objets non lavables</strong> : au congélateur dans un sac fermé pendant 72 heures (stop-punaises.gouv.fr).</li>
+<li><strong>Recoins et tissus d'ameublement</strong> : appareil à vapeur sèche d'au moins 120 °C (DGCCRF), puis aspirateur, sac jeté dans un sac fermé.</li>
+<li><strong>Respecter à la lettre les consignes</strong> de l'entreprise avant et après chaque passage.</li>
+</ul>
+<p>Les gestes à faire dès le premier jour sont détaillés dans notre guide <a href="/que-faire-punaises-de-lit.html">que faire en attendant le professionnel</a>.</p>
+<h2>Comment savoir que c'est vraiment fini ?</h2>
+<p>On considère l'infestation éliminée quand il n'y a plus de nouvelles piqûres ni de nouvelles traces pendant 1 à 2 mois après le dernier passage. Attention : certaines personnes ne réagissent pas aux piqûres. Inspectez donc aussi le matelas, les coutures et le sommier à la lampe. En cas de doute, une détection canine permet de contrôler le logement (voir notre guide sur la <a href="/detection-canine-punaises-de-lit-toulouse.html">détection canine à Toulouse</a>).</p>
+<h2>Bien choisir l'entreprise pour ne pas perdre de temps</h2>
+<p>Pour un traitement insecticide, vérifiez que l'entreprise dispose d'un certificat <strong>Certibiocide</strong> en cours de validité. Comparez au moins deux devis, et ne payez rien tant que la prestation n'a pas été réalisée (DGCCRF). Les fourchettes de prix pratiquées sont présentées dans notre guide <a href="/prix-traitement-punaises-de-lit-toulouse.html">prix d'un traitement à Toulouse</a>.</p>
+<p class="note">Sources consultées le 5 octobre 2026 : rapport « Punaises de lit en France : état des lieux et recommandations » (Centre national d'expertise sur les vecteurs, septembre 2015, publié par l'Anses), stop-punaises.gouv.fr, Santé Canada (« Punaises de lit : à quoi ressemblent-elles ? »), DGCCRF (« Se débarrasser des punaises de lit : comparez les devis »). Durées indicatives : seul le diagnostic d'un professionnel permet d'établir le protocole adapté à votre logement.</p>''',
+faq=[("Combien de passages faut-il pour éliminer les punaises de lit ?","Pour un traitement chimique, au moins deux passages, parfois trois, espacés d'environ 15 jours. Le deuxième passage sert à éliminer les jeunes punaises sorties des œufs après le premier."),
+("Combien de temps après le traitement les punaises disparaissent-elles ?","Elles diminuent dès le premier passage, mais il faut attendre la fin des passages puis 1 à 2 mois sans nouvelle piqûre ni nouvelle trace pour considérer l'infestation comme éliminée."),
+("Peut-on dormir dans son lit pendant le traitement ?","Suivez les consignes de l'entreprise, qui indique le délai avant de réoccuper les pièces traitées. Évitez surtout d'aller dormir dans une autre pièce ou chez des proches : vous risquez d'y transporter les punaises."),
+("Si je pars en vacances un mois, les punaises vont-elles mourir de faim ?","Non. Les punaises de lit peuvent survivre plusieurs mois sans se nourrir, jusqu'à 135 jours à 22 °C d'après le rapport national de 2015, et parfois bien plus. Un traitement reste nécessaire.")],
+date='2026-10-05')
 print('ok')
