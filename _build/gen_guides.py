@@ -10,6 +10,7 @@ GUIDES=[
  ('punaises-de-lit-locataire-proprietaire.html','Locataire ou propriétaire : qui paie ?'),
  ('punaises-de-lit-etudiants-toulouse.html','Étudiants : résidence, Crous, colocation'),
  ('combien-de-temps-se-debarrasser-punaises-de-lit.html','Combien de temps pour s\'en débarrasser ?'),
+ ('faut-il-jeter-matelas-punaises-de-lit.html','Faut-il jeter son matelas ?'),
 ]
 MOIS=['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre']
 def fr_date(d):
@@ -304,4 +305,57 @@ faq=[("Combien de passages faut-il pour éliminer les punaises de lit ?","Pour u
 ("Peut-on dormir dans son lit pendant le traitement ?","Suivez les consignes de l'entreprise, qui indique le délai avant de réoccuper les pièces traitées. Évitez surtout d'aller dormir dans une autre pièce ou chez des proches : vous risquez d'y transporter les punaises."),
 ("Si je pars en vacances un mois, les punaises vont-elles mourir de faim ?","Non. Les punaises de lit peuvent survivre plusieurs mois sans se nourrir, jusqu'à 135 jours à 22 °C d'après le rapport national de 2015, et parfois bien plus. Un traitement reste nécessaire.")],
 date='2026-10-05')
+# 8. MATELAS (2026-10-08)
+guide('faut-il-jeter-matelas-punaises-de-lit.html',
+"Punaises de lit : faut-il jeter son matelas ?",
+"Punaises de lit : faut-il jeter son matelas ? Dans la plupart des cas, non. Traitement, housse intégrale, et si vous le jetez quand même : comment l'emballer et où le déposer à Toulouse.",
+"Punaises de lit : faut-il jeter son matelas ?",
+"Faut-il jeter son matelas ?",
+'''<p class="intro">Quand on découvre des punaises de lit, le premier réflexe est souvent de sortir le matelas sur le trottoir. C'est rarement la bonne idée. Dans la plupart des cas, le matelas se traite et se protège. Le jeter ne règle pas l'infestation, et mal le jeter peut la propager dans tout l'immeuble. Voici comment décider, et comment faire proprement si vous devez vraiment vous en séparer.</p>
+<h2>La réponse courte</h2>
+<ul>
+<li><strong>En général, non</strong> : les documents des autorités sanitaires (ARS Île-de-France, stop-punaises.gouv.fr) recommandent de traiter le matelas (aspiration, vapeur) plutôt que de le jeter.</li>
+<li><strong>Jeter le matelas ne suffit pas</strong> : les punaises se cachent aussi dans le sommier, la tête de lit, les plinthes et les meubles proches. Un matelas neuf posé dans un logement non traité sera recolonisé.</li>
+<li><strong>Si vous le jetez</strong>, faites-le après ou pendant le traitement, emballé hermétiquement, rendu inutilisable, et jamais déposé sur le palier ou dans la rue.</li>
+</ul>
+<h2>Pourquoi jeter le matelas n'est pas la solution</h2>
+<p>Les punaises de lit ne vivent pas seulement dans le matelas. Elles se logent dans les coutures, mais aussi dans les fentes du sommier, les lattes, les cadres de lit, les prises et les plinthes. Retirer le matelas laisse donc en place une bonne partie de la population.</p>
+<p>Elles peuvent en outre survivre longtemps sans se nourrir : jusqu'à 135 jours à 22 °C selon le rapport national « Punaises de lit en France » (CNEV, 2015). Un lit neuf acheté avant que le logement soit traité risque d'être infesté en quelques jours, et la dépense est perdue.</p>
+<p>Enfin, transporter un matelas non emballé dans la cage d'escalier ou l'ascenseur peut semer des punaises chez les voisins. C'est l'une des raisons pour lesquelles les autorités demandent de <strong>ne pas abandonner d'objets potentiellement infestés dans la rue ou sur le palier</strong> (ARS Île-de-France).</p>
+<h2>Comment traiter un matelas infesté</h2>
+<ol>
+<li><strong>Aspirer minutieusement les deux faces</strong>, en insistant sur les coutures, les passepoils et les poignées. L'ARS Île-de-France recommande de renouveler l'aspiration régulièrement pendant une dizaine de jours. Fermez ensuite le sac de l'aspirateur avec du ruban adhésif et jetez-le dans un sac poubelle fermé, à la poubelle extérieure (stop-punaises.gouv.fr).</li>
+<li><strong>Passer le matelas à la vapeur sèche</strong> : la vapeur entre 120 °C et 180 °C tue immédiatement les œufs et les larves qu'elle atteint (protocole d'auto-traitement de stop-punaises.gouv.fr). Passez lentement, à quelques centimètres de la surface.</li>
+<li><strong>Laver tout le linge de lit à 60 °C minimum</strong>, cycle long, puis au sèche-linge à chaud au moins 30 minutes si possible (stop-punaises.gouv.fr).</li>
+<li><strong>Traiter aussi le sommier et le cadre de lit</strong>, et faire intervenir un professionnel si l'infestation est installée : un traitement chimique se fait en au moins deux passages espacés d'environ 15 jours (CNEV, 2015).</li>
+</ol>
+<p>Le détail du calendrier est expliqué dans notre guide <a href="/combien-de-temps-se-debarrasser-punaises-de-lit.html">combien de temps pour se débarrasser des punaises de lit</a>.</p>
+<h2>La housse intégrale : utile, mais pas un traitement</h2>
+<p>Une housse anti-punaises enveloppe le matelas sur ses six faces et se ferme par une glissière. Posée sur un matelas infesté, elle enferme les insectes présents et les coupe du dormeur. Posée sur un matelas sain, elle les empêche de s'installer dans les coutures.</p>
+<ul>
+<li><strong>Fermeture</strong> : Santé Canada conseille de recouvrir la fermeture éclair de ruban adhésif, car les punaises peuvent se faufiler à travers.</li>
+<li><strong>Durée</strong> : gardez le matelas recouvert pendant un an (Santé Canada), sans ouvrir la housse pour la laver.</li>
+<li><strong>Intégrité</strong> : la protection ne fonctionne que tant que la housse est intacte, sans trou ni déchirure.</li>
+<li><strong>Limite</strong> : la housse ne protège ni le sommier, ni la tête de lit, ni le reste de la pièce. Elle complète le traitement, elle ne le remplace pas.</li>
+</ul>
+<h2>Quand jeter le matelas peut se justifier</h2>
+<p>Un matelas très abîmé (déchiré, éventré, coutures ouvertes) ne peut plus être protégé correctement par une housse, et la vapeur n'atteint pas l'intérieur. Si le matelas était de toute façon en fin de vie, le remplacer peut être raisonnable. Demandez l'avis de l'entreprise qui intervient : c'est elle qui voit l'état réel de la literie.</p>
+<h2>Si vous le jetez : la bonne méthode</h2>
+<ol>
+<li><strong>Emballer hermétiquement</strong> le matelas dans du film plastique ou une housse fermée <strong>avant</strong> de le sortir de la chambre (ARS Île-de-France, Ville et Eurométropole de Strasbourg).</li>
+<li><strong>Le rendre inutilisable</strong>, par exemple en le lacérant ou en le marquant à la peinture, pour que personne ne le récupère (document de la Ville et de l'Eurométropole de Strasbourg soutenu par l'ARS Grand Est).</li>
+<li><strong>Ne pas le déposer sur le palier ou dans la rue</strong>, ne pas le vendre, ne pas le donner.</li>
+<li><strong>L'apporter directement en déchèterie</strong> et prévenir les agents de l'infestation, ou passer par la collecte des encombrants de votre commune (en cas de doute, la mairie indique la marche à suivre, rappelle l'ARS Île-de-France).</li>
+</ol>
+<h2>Où déposer un matelas à Toulouse</h2>
+<p>Toulouse Métropole propose une <strong>collecte des encombrants sur rendez-vous</strong>, avec une démarche en ligne sur le site metropole.toulouse.fr, ainsi qu'un réseau de déchèteries. Vérifiez les conditions à jour sur le site de la Métropole avant de prendre rendez-vous, et signalez que le matelas est emballé à cause de punaises de lit.</p>
+<p>Si vous achetez un matelas neuf, le vendeur est en principe tenu de reprendre gratuitement l'ancien depuis le 1er janvier 2022 (loi antigaspillage, rappel de Que Choisir, juin 2022), sauf petits vendeurs exonérés. Prévenez-le de l'infestation avant l'enlèvement et remettez-lui le matelas emballé.</p>
+<h2>Et le sommier, le canapé, les meubles ?</h2>
+<p>La même logique s'applique : on traite d'abord, on ne jette qu'en dernier recours, et toujours emballé. Pour les petits objets qui ne se lavent pas, le congélateur fonctionne : 5 jours à -18 °C dans une boîte fermée (stop-punaises.gouv.fr). Pour la suite des gestes à faire, consultez notre guide <a href="/que-faire-punaises-de-lit.html">que faire en attendant le professionnel</a>.</p>
+<p class="note">Sources consultées le 8 octobre 2026 : protocole d'auto-traitement de stop-punaises.gouv.fr ; brochure « Punaises de lit » de l'ARS Île-de-France (2019) ; « Stop aux punaises de lit ! », Ville et Eurométropole de Strasbourg, contrat local de santé soutenu par l'ARS Grand Est ; Santé Canada (« Punaises de lit : comment s'assurer qu'elles ne reviendront pas ? ») ; rapport « Punaises de lit en France » (CNEV, 2015, publié par l'Anses) ; Que Choisir (5 juin 2022) ; Toulouse Métropole (collecte des encombrants). Seul le diagnostic d'un professionnel permet de juger l'état de votre literie.</p>''',
+faq=[("Faut-il jeter son matelas quand on a des punaises de lit ?","Dans la plupart des cas, non. Le matelas se traite (aspiration, vapeur sèche entre 120 et 180 °C) puis se protège avec une housse intégrale fermée. Le jeter ne règle pas l'infestation, car les punaises se cachent aussi dans le sommier, le cadre de lit et la pièce."),
+("Une housse anti-punaises suffit-elle ?","Non. Elle enferme les punaises présentes dans le matelas et empêche de nouvelles de s'y installer, mais elle ne protège pas le sommier, la tête de lit ni le reste de la pièce. Elle complète le traitement. Santé Canada conseille de la garder fermée pendant un an."),
+("Comment jeter un matelas infesté sans contaminer l'immeuble ?","Emballez-le hermétiquement dans du film plastique avant de le sortir de la chambre, rendez-le inutilisable (lacéré ou marqué à la peinture), puis apportez-le en déchèterie en prévenant les agents, ou passez par la collecte des encombrants. Ne le laissez jamais sur le palier ou dans la rue."),
+("Faut-il acheter un nouveau matelas tout de suite ?","Mieux vaut attendre que le logement soit traité. Un matelas neuf installé dans une pièce encore infestée peut être recolonisé en quelques jours, car les punaises survivent des mois sans se nourrir.")],
+date='2026-10-08')
 print('ok')
