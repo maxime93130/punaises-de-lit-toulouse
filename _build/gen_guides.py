@@ -11,6 +11,7 @@ GUIDES=[
  ('punaises-de-lit-etudiants-toulouse.html','Étudiants : résidence, Crous, colocation'),
  ('combien-de-temps-se-debarrasser-punaises-de-lit.html','Combien de temps pour s\'en débarrasser ?'),
  ('faut-il-jeter-matelas-punaises-de-lit.html','Faut-il jeter son matelas ?'),
+ ('vapeur-seche-punaises-de-lit.html','Traitement à la vapeur sèche'),
 ]
 MOIS=['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre']
 def fr_date(d):
@@ -358,4 +359,64 @@ faq=[("Faut-il jeter son matelas quand on a des punaises de lit ?","Dans la plup
 ("Comment jeter un matelas infesté sans contaminer l'immeuble ?","Emballez-le hermétiquement dans du film plastique avant de le sortir de la chambre, rendez-le inutilisable (lacéré ou marqué à la peinture), puis apportez-le en déchèterie en prévenant les agents, ou passez par la collecte des encombrants. Ne le laissez jamais sur le palier ou dans la rue."),
 ("Faut-il acheter un nouveau matelas tout de suite ?","Mieux vaut attendre que le logement soit traité. Un matelas neuf installé dans une pièce encore infestée peut être recolonisé en quelques jours, car les punaises survivent des mois sans se nourrir.")],
 date='2026-10-08')
+guide('vapeur-seche-punaises-de-lit.html',
+"Vapeur sèche contre les punaises de lit : efficacité, limites, prix",
+"Traitement des punaises de lit à la vapeur sèche : comment ça marche, ce que dit l'Anses, les limites de la méthode, la bonne technique et les prix d'un professionnel à Toulouse.",
+"Vapeur sèche contre les punaises de lit : principe, limites et prix",
+"Traitement à la vapeur sèche",
+'''<p class="intro">La vapeur sèche est l'une des méthodes les plus utilisées contre les punaises de lit, par les professionnels comme par les particuliers. Elle ne laisse pas de résidu chimique et tue les insectes et les œufs qu'elle touche. Mais elle ne touche que ce qu'elle atteint : c'est sa force et sa limite. Voici ce qu'en disent les autorités sanitaires, comment bien l'utiliser et ce que coûte une intervention.</p>
+<h2>La réponse courte</h2>
+<ul>
+<li><strong>Efficace au contact</strong> : l'Anses classe la vapeur parmi les méthodes à efficacité « élevée », avec un risque pour la santé jugé négligeable (avis de juillet 2023).</li>
+<li><strong>Limitée à ce qu'elle touche</strong> : il est difficile d'atteindre toutes les cachettes d'une pièce, et une punaise que la vapeur n'atteint pas survit.</li>
+<li><strong>Rarement suffisante seule</strong> : selon l'Anses, aucune méthode ne suffit à elle seule. La vapeur s'intègre dans un traitement complet (aspiration, lavage du linge, parfois insecticide, contrôle).</li>
+<li><strong>Prix</strong> : comptez en général de 350 à 1 300 € pour un logement traité par un professionnel, selon la surface et l'infestation.</li>
+</ul>
+<h2>Comment agit la vapeur sèche</h2>
+<p>Un appareil à vapeur sèche produit une vapeur très chaude et peu chargée en eau. Le protocole d'auto-traitement de stop-punaises.gouv.fr indique une température <strong>entre 120 °C et 180 °C</strong>, qui permet d'éliminer immédiatement les œufs et les larves touchés. Le guide de l'université du Tennessee (Extension, 2014) rappelle que tous les stades de la punaise meurent en moins d'une minute au-delà d'environ 49 °C (120 °F) : la vapeur agit donc par simple choc thermique.</p>
+<p>Le mot « sèche » compte. Les appareils à vapeur sèche ou à faible humidité sont préférables parce qu'ils mouillent moins les matériaux et limitent le risque de moisissures (fiche HealthLinkBC n° 95, 2020). Un nettoyeur vapeur classique, qui détrempe le tissu, est moins adapté.</p>
+<h2>Ce que dit l'Anses</h2>
+<p>Dans son expertise « Les punaises de lit : impacts, prévention et lutte » (juillet 2023), l'Anses a évalué les différentes méthodes de lutte :</p>
+<ul>
+<li><strong>Vapeur</strong> : efficacité élevée, applicabilité moyenne, car il est difficile de cibler toutes les zones où les punaises se reposent. Le risque pour la santé est négligeable, avec une altération possible de l'objet traité.</li>
+<li><strong>Chaleur sèche</strong> (traitement thermique de toute la pièce) : efficacité élevée également, mais réservée aux professionnels équipés.</li>
+<li><strong>Insecticides</strong> : l'agence signale des résistances chez les punaises de lit et recommande de privilégier les méthodes non chimiques.</li>
+</ul>
+<p>Autrement dit, la vapeur est une bonne méthode à condition d'être appliquée méthodiquement, partout où les punaises peuvent se cacher.</p>
+<h2>Les limites à connaître</h2>
+<ul>
+<li><strong>Pas d'effet rémanent</strong> : la vapeur tue sur le moment. Une punaise cachée ailleurs, ou qui éclot d'un œuf non atteint, n'est pas touchée après le passage. D'où l'intérêt de répéter le traitement et de surveiller.</li>
+<li><strong>Profondeur limitée</strong> : selon l'université du Tennessee, la vapeur pénètre d'environ 2 cm dans un tissu et d'un peu plus de 5 cm dans une fente. Elle n'atteint pas le cœur d'un matelas épais ni l'intérieur des murs.</li>
+<li><strong>Matériaux fragiles</strong> : bois vernis, cuir, certains tissus et revêtements peuvent être abîmés par la chaleur et l'humidité. Testez sur une zone cachée. N'approchez jamais la vapeur des prises électriques ou des appareils.</li>
+<li><strong>Risque de brûlure</strong> : la vapeur dépasse 120 °C. Le protocole officiel le rappelle : attention aux brûlures, surtout en présence d'enfants ou d'animaux.</li>
+</ul>
+<h2>Bien utiliser la vapeur sèche</h2>
+<ol>
+<li><strong>Aspirer d'abord</strong> avec un aspirateur à sac, en insistant sur les coutures, plinthes et fissures. Fermez ensuite le sac avec du ruban adhésif et jetez-le dans un sac poubelle fermé, à la poubelle extérieure (stop-punaises.gouv.fr).</li>
+<li><strong>Utiliser un appareil qui dépasse 120 °C</strong>, acheté ou loué (stop-punaises.gouv.fr).</li>
+<li><strong>Passer lentement, à quelques centimètres de la surface</strong>. La fiche HealthLinkBC conseille d'aller aussi lentement que possible. L'université du Tennessee recommande un embout large (triangulaire) plutôt qu'une buse fine, dont le jet peut souffler les punaises avant de les tuer.</li>
+<li><strong>Viser les cachettes</strong> : coutures et passepoils du matelas, sommier, cadre et tête de lit, canapé, plinthes, encadrements, intérieur des tiroirs et des armoires.</li>
+<li><strong>Répéter</strong> : le protocole officiel prévoit de compter environ 15 jours pour une élimination complète et de refaire la vapeur si nécessaire. Si le logement reste infesté, faites appel à un professionnel.</li>
+</ol>
+<p>En complément, lavez le linge à 60 °C et séchez-le à chaud. Le calendrier complet est détaillé dans notre guide <a href="/combien-de-temps-se-debarrasser-punaises-de-lit.html">combien de temps pour se débarrasser des punaises de lit</a>, et les gestes du premier jour dans <a href="/que-faire-punaises-de-lit.html">que faire en attendant le professionnel</a>.</p>
+<h2>Faire soi-même ou faire appel à un professionnel ?</h2>
+<p>Pour quelques punaises repérées tôt dans un lit, une vapeur sèche bien menée, combinée à l'aspiration et au lavage, peut suffire. Dès que l'infestation touche plusieurs meubles ou plusieurs pièces, un professionnel est plus sûr : il dispose d'appareils puissants, connaît les cachettes et combine souvent la vapeur avec d'autres méthodes. S'il applique un insecticide, il doit détenir le certificat <strong>Certibiocide</strong>, une obligation rappelée par l'Anses.</p>
+<h2>Combien coûte un traitement à la vapeur sèche ?</h2>
+<p>Le prix dépend surtout de la surface et du nombre de passages. À titre indicatif, un comparatif mis à jour en avril 2026 (MesDépanneurs.fr) relève :</p>
+<div class="table-scroll"><table>
+<thead><tr><th>Surface traitée</th><th>Prix indicatif TTC</th></tr></thead>
+<tbody>
+<tr><td>Chambre d'environ 15 m²</td><td>180 à 240 €</td></tr>
+<tr><td>Studio ou 2 petites pièces (30 m²)</td><td>360 à 480 €</td></tr>
+<tr><td>T2 ou T3 (60 m²)</td><td>720 à 960 €</td></tr>
+<tr><td>T4 ou maison (100 m²)</td><td>1 200 à 1 600 €</td></tr>
+</tbody></table></div>
+<p class="note">Fourchettes nationales indicatives. À Toulouse, la plupart des devis pour un logement se situent entre 350 et 1 300 €. Seul le devis établi après diagnostic fait foi : vérifiez qu'il précise le nombre de passages et la visite de contrôle.</p>
+<p>Pour comparer avec les autres méthodes (chimique, détection canine, thermique), consultez notre guide <a href="/prix-traitement-punaises-de-lit-toulouse.html">prix d'un traitement à Toulouse</a>. Si vous êtes locataire, lisez aussi <a href="/punaises-de-lit-locataire-proprietaire.html">qui paie le traitement</a>.</p>
+<p class="note">Sources consultées le 12 octobre 2026 : protocole d'auto-traitement de stop-punaises.gouv.fr ; Anses, avis et rapport « Les punaises de lit : impacts, prévention et lutte » (juillet 2023) ; University of Tennessee Extension, « Affordable Bed Bug Management? » (SP 761, 2014) ; HealthLinkBC, fiche « Les punaises de lit » n° 95 (juin 2020) ; MesDépanneurs.fr, prix d'un traitement contre les punaises de lit (mis à jour en avril 2026). Ce guide ne remplace pas le diagnostic d'un professionnel.</p>''',
+faq=[("La vapeur sèche tue-t-elle les œufs de punaises de lit ?","Oui, au contact. Le protocole de stop-punaises.gouv.fr indique qu'une vapeur entre 120 et 180 °C élimine immédiatement les œufs et les larves touchés. Les œufs que la vapeur n'atteint pas survivent, d'où la nécessité de passer partout et de répéter le traitement."),
+("La vapeur sèche suffit-elle à éliminer une infestation ?","Rarement seule. L'Anses juge la vapeur efficace, mais estime qu'aucune méthode ne suffit à elle seule. Elle se combine avec l'aspiration, le lavage du linge à 60 °C, la surveillance et, si besoin, l'intervention d'un professionnel."),
+("Quelle température faut-il pour tuer les punaises de lit à la vapeur ?","Utilisez un appareil qui dépasse 120 °C, comme le recommande stop-punaises.gouv.fr. Passez lentement, à quelques centimètres de la surface, pour que la chaleur atteigne bien les insectes cachés dans les coutures et les fentes."),
+("Combien coûte un traitement à la vapeur sèche à Toulouse ?","Comptez le plus souvent entre 350 et 1 300 € pour un logement, selon la surface et le niveau d'infestation. Pour une seule chambre d'environ 15 m², les fourchettes nationales relevées en 2026 vont de 180 à 240 €.")],
+date='2026-10-12')
 print('ok')
