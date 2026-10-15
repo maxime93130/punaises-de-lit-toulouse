@@ -12,6 +12,7 @@ GUIDES=[
  ('combien-de-temps-se-debarrasser-punaises-de-lit.html','Combien de temps pour s\'en débarrasser ?'),
  ('faut-il-jeter-matelas-punaises-de-lit.html','Faut-il jeter son matelas ?'),
  ('vapeur-seche-punaises-de-lit.html','Traitement à la vapeur sèche'),
+ ('punaises-de-lit-voyage-hotel.html','Voyage et hôtel : ne pas les ramener'),
 ]
 MOIS=['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre']
 def fr_date(d):
@@ -419,4 +420,65 @@ faq=[("La vapeur sèche tue-t-elle les œufs de punaises de lit ?","Oui, au cont
 ("Quelle température faut-il pour tuer les punaises de lit à la vapeur ?","Utilisez un appareil qui dépasse 120 °C, comme le recommande stop-punaises.gouv.fr. Passez lentement, à quelques centimètres de la surface, pour que la chaleur atteigne bien les insectes cachés dans les coutures et les fentes."),
 ("Combien coûte un traitement à la vapeur sèche à Toulouse ?","Comptez le plus souvent entre 350 et 1 300 € pour un logement, selon la surface et le niveau d'infestation. Pour une seule chambre d'environ 15 m², les fourchettes nationales relevées en 2026 vont de 180 à 240 €.")],
 date='2026-10-12')
+guide('punaises-de-lit-voyage-hotel.html',
+"Punaises de lit à l'hôtel et au retour de voyage : que faire ?",
+"Punaises de lit en voyage : inspecter la chambre d'hôtel, protéger sa valise, que faire si l'on en trouve, et les gestes au retour à Toulouse (lavage 60 °C, sèche-linge, congélation).",
+"Punaises de lit en voyage et à l'hôtel : comment ne pas les ramener chez soi",
+"Voyage et hôtel",
+'''<p class="intro">Les punaises de lit ne volent pas et ne sautent pas : elles voyagent dans les bagages et les vêtements. Une nuit dans une chambre infestée suffit pour en ramener quelques-unes, et quelques-unes suffisent pour installer une infestation chez soi. Bonne nouvelle : des gestes simples, à l'hôtel puis au retour, réduisent fortement le risque. Voici ce que recommandent les autorités sanitaires.</p>
+<h2>La réponse courte</h2>
+<ul>
+<li><strong>À l'arrivée</strong> : posez la valise dans la salle de bain ou sur un porte-bagages inspecté, jamais sur le lit, puis inspectez le matelas et la tête de lit.</li>
+<li><strong>Pendant le séjour</strong> : gardez la valise fermée et le linge sale dans un sac fermé.</li>
+<li><strong>Si vous en trouvez</strong> : photographiez, prévenez la réception et demandez une chambre éloignée, ou changez d'hôtel.</li>
+<li><strong>Au retour</strong> : ouvrez la valise sur une surface dure, loin du lit, lavez tous les textiles à 60 °C ou passez-les au sèche-linge chaud au moins 30 minutes, puis aspirez la valise.</li>
+</ul>
+<h2>Avant de partir</h2>
+<ul>
+<li><strong>Prévoyez des grands sacs plastique refermables</strong> pour séparer vos affaires, et un sac fermé dédié au linge sale (Santé Canada).</li>
+<li><strong>Préférez une valise rigide et claire</strong> : les punaises s'y voient mieux et s'y cachent moins que dans un sac en tissu foncé. À défaut, une valise en tissu peut être enveloppée dans un sac plastique blanc bien fermé (Santé Canada).</li>
+<li><strong>N'emportez pas votre propre oreiller</strong>, qui peut servir de cachette (Santé Canada).</li>
+<li><strong>Une petite lampe de poche</strong> (celle du téléphone suffit) aide à inspecter les coutures et les fentes.</li>
+</ul>
+<h2>En arrivant dans la chambre</h2>
+<ol>
+<li><strong>Laissez la valise dans la salle de bain</strong> (carrelage, baignoire) ou sur le porte-bagages après l'avoir examiné, y compris les sangles. L'ARS Nouvelle-Aquitaine conseille de ne poser les bagages ni par terre, ni sur le lit, ni dessous.</li>
+<li><strong>Inspectez le lit</strong> : soulevez les coins du drap et du matelas, regardez les coutures et passepoils, le sommier, l'arrière de la tête de lit et le mur derrière. Cherchez des insectes bruns de 4 à 7 mm, des petits points noirs de 1 à 2 mm (déjections) ou des taches de sang sur les draps.</li>
+<li><strong>Regardez aussi les fauteuils et le placard</strong>, en particulier les fentes et les recoins.</li>
+</ol>
+<p>Pour savoir à quoi ressemblent les insectes, les œufs et les traces, consultez notre guide <a href="/reconnaitre-punaises-de-lit.html">reconnaître les punaises de lit</a>.</p>
+<h2>Pendant le séjour</h2>
+<ul>
+<li><strong>Gardez la valise fermée</strong> quand vous ne l'utilisez pas, et ne rangez pas vos vêtements dans l'armoire sans l'avoir examinée (ARS Nouvelle-Aquitaine).</li>
+<li><strong>N'étalez pas vos affaires sur le lit</strong> et ne laissez ni chaussures ni sacs sous le lit (Santé Canada).</li>
+<li><strong>Fermez le sac de linge sale.</strong> Une étude de l'université de Sheffield publiée dans <em>Scientific Reports</em> (2017) a montré qu'en l'absence de dormeur, les punaises de lit étaient deux fois plus nombreuses à se regrouper sur des sacs de linge porté que sur des sacs de linge propre. Les auteurs conseillent de garder le linge sale dans un sac fermé, surtout à l'hôtel.</li>
+</ul>
+<h2>Si vous trouvez des punaises de lit à l'hôtel</h2>
+<ol>
+<li><strong>Ne déballez rien de plus</strong> et sortez vos bagages du contact du lit et des tissus.</li>
+<li><strong>Prenez des photos</strong> des insectes, des traces sur la literie et, le cas échéant, des piqûres. Gardez une trace écrite de vos échanges avec l'établissement.</li>
+<li><strong>Prévenez la réception</strong> et demandez une autre chambre, éloignée de la chambre suspecte (Santé Canada), ou changez d'hôtel. Vous pouvez demander un geste commercial ou un remboursement ; en cas de litige, une association de consommateurs peut vous aider.</li>
+<li><strong>Traitez vos affaires dès le retour</strong>, comme expliqué ci-dessous, même si vous n'avez pas été piqué.</li>
+</ol>
+<p>Les piqûres ne permettent pas à elles seules de conclure : tout le monde ne réagit pas, et les réactions peuvent apparaître plusieurs jours après. Selon l'ARS Auvergne-Rhône-Alpes, elles disparaissent en général d'elles-mêmes en une dizaine de jours. En cas de réaction importante ou de doute, demandez conseil à un pharmacien ou à un médecin.</p>
+<h2>Au retour à la maison : les bons gestes</h2>
+<ol>
+<li><strong>Ouvrez la valise sur une surface dure</strong> (carrelage, baignoire, balcon, garage), loin du lit, du canapé et des tapis (Santé Canada, ARS Nouvelle-Aquitaine).</li>
+<li><strong>Sortez tous les textiles directement dans un sac fermé</strong> jusqu'à la machine, qu'ils aient été portés ou non.</li>
+<li><strong>Lavez à 60 °C</strong>, ou passez au sèche-linge en cycle chaud pendant au moins 30 minutes ce qui ne supporte pas ce lavage (ARS Nouvelle-Aquitaine, Santé Canada).</li>
+<li><strong>Congelez ce qui ne se lave pas</strong> (petits objets, chaussures en tissu, peluches) : au moins 72 heures à -20 °C, dans un sac fermé (ARS Nouvelle-Aquitaine, ARS Auvergne-Rhône-Alpes). Un congélateur ménager qui n'atteint pas -20 °C ne garantit pas le résultat.</li>
+<li><strong>Inspectez les trousses</strong> de toilette et de maquillage, la brosse à cheveux, les poches et les sacs à main.</li>
+<li><strong>Aspirez la valise</strong>, coutures et poches comprises. Jetez aussitôt le sac de l'aspirateur dans un sac plastique bien fermé, à la poubelle extérieure, puis nettoyez le conduit. Pour un aspirateur sans sac, videz le réservoir de la même façon et lavez-le à l'eau chaude.</li>
+<li><strong>Rangez la valise loin des chambres</strong> (cave, garage, placard d'entrée), idéalement dans un grand sac fermé.</li>
+</ol>
+<h2>Dans les semaines qui suivent</h2>
+<p>Restez attentif pendant quelques semaines : piqûres alignées au réveil, petites taches noires ou de sang sur les draps, insectes dans les coutures du matelas. Au moindre signe, ne déplacez pas vos affaires dans d'autres pièces et suivez les étapes de notre guide <a href="/que-faire-punaises-de-lit.html">que faire en attendant le professionnel</a>. Plus le traitement commence tôt, plus il est court et moins il coûte : voir <a href="/combien-de-temps-se-debarrasser-punaises-de-lit.html">combien de temps pour s'en débarrasser</a> et <a href="/prix-traitement-punaises-de-lit-toulouse.html">les prix à Toulouse</a>. En cas de doute, une <a href="/detection-canine-punaises-de-lit-toulouse.html">détection canine</a> permet de confirmer ou d'écarter une infestation débutante.</p>
+<p>Vous êtes étudiant et rentrez de vacances en résidence ou en colocation ? Les démarches propres aux logements étudiants sont détaillées dans notre guide <a href="/punaises-de-lit-etudiants-toulouse.html">étudiants à Toulouse</a>. Le numéro national d'information est le 0806 706 806 (prix d'un appel local), et le site officiel stop-punaises.gouv.fr.</p>
+<p class="note">Sources consultées le 15 octobre 2026 : Santé Canada, « Punaises de lit : comment les éviter en voyage ? » ; ARS Nouvelle-Aquitaine, « Les punaises de lit, mieux se protéger et prévenir leur apparition » (août 2024) ; ARS Auvergne-Rhône-Alpes, dépliant « Punaises de lit » (mai 2024) ; W. Hentley et al., université de Sheffield, « Bed bug aggregation on dirty laundry: a mechanism for passive dispersal », <em>Scientific Reports</em> (septembre 2017). Ce guide ne remplace pas l'avis d'un professionnel de santé ou de la désinsectisation.</p>''',
+faq=[("Comment savoir s'il y a des punaises de lit dans une chambre d'hôtel ?","Inspectez le lit avant de vous installer : soulevez les coins du drap et du matelas, regardez les coutures, le sommier et l'arrière de la tête de lit. Cherchez des insectes bruns de 4 à 7 mm, de petits points noirs (déjections) ou des taches de sang sur les draps. Vérifiez aussi les fauteuils et le placard."),
+("Où poser sa valise à l'hôtel pour éviter les punaises de lit ?","Dans la salle de bain, sur le carrelage ou dans la baignoire, ou sur un porte-bagages que vous avez inspecté. Jamais sur le lit, sous le lit ou sur un fauteuil. Gardez-la fermée quand vous ne l'utilisez pas."),
+("Que faire de ses vêtements au retour d'un voyage ?","Ouvrez la valise sur une surface dure, loin du lit, et mettez tous les textiles dans un sac fermé jusqu'à la machine, portés ou non. Lavez à 60 °C ou passez au sèche-linge chaud au moins 30 minutes. Ce qui ne se lave pas peut être congelé 72 heures à -20 °C."),
+("Faut-il jeter sa valise après un séjour dans un hôtel infesté ?","Non, en général. Aspirez-la soigneusement, coutures et poches comprises, jetez le sac de l'aspirateur dans un sac fermé, et rangez la valise loin des chambres, idéalement dans un grand sac fermé. Surveillez ensuite votre logement quelques semaines.")],
+date='2026-10-15')
+
 print('ok')
