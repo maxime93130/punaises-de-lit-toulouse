@@ -13,6 +13,7 @@ GUIDES=[
  ('faut-il-jeter-matelas-punaises-de-lit.html','Faut-il jeter son matelas ?'),
  ('vapeur-seche-punaises-de-lit.html','Traitement à la vapeur sèche'),
  ('punaises-de-lit-voyage-hotel.html','Voyage et hôtel : ne pas les ramener'),
+ ('piqures-punaises-de-lit.html','Piqûres : reconnaître et soulager'),
 ]
 MOIS=['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre']
 def fr_date(d):
@@ -480,5 +481,63 @@ faq=[("Comment savoir s'il y a des punaises de lit dans une chambre d'hôtel ?",
 ("Que faire de ses vêtements au retour d'un voyage ?","Ouvrez la valise sur une surface dure, loin du lit, et mettez tous les textiles dans un sac fermé jusqu'à la machine, portés ou non. Lavez à 60 °C ou passez au sèche-linge chaud au moins 30 minutes. Ce qui ne se lave pas peut être congelé 72 heures à -20 °C."),
 ("Faut-il jeter sa valise après un séjour dans un hôtel infesté ?","Non, en général. Aspirez-la soigneusement, coutures et poches comprises, jetez le sac de l'aspirateur dans un sac fermé, et rangez la valise loin des chambres, idéalement dans un grand sac fermé. Surveillez ensuite votre logement quelques semaines.")],
 date='2026-10-15')
+
+guide('piqures-punaises-de-lit.html',
+"Piqûres de punaises de lit : reconnaître, soulager, quand consulter",
+"Piqûres de punaises de lit : à quoi elles ressemblent, combien de temps elles durent, comment soulager les démangeaisons et quand consulter un médecin ou un pharmacien. Sources officielles.",
+"Piqûres de punaises de lit : comment les reconnaître et les soulager",
+"Piqûres",
+'''<p class="intro">Des boutons rouges qui grattent au réveil, parfois alignés sur le bras ou la jambe : c'est souvent ce qui met la puce à l'oreille. Mais une piqûre ne suffit pas à prouver la présence de punaises de lit, et l'inverse est vrai aussi. Voici ce que disent les autorités sanitaires pour reconnaître ces piqûres, les soulager et savoir quand demander un avis médical. Ce guide donne des informations générales : il ne remplace pas l'avis d'un médecin ou d'un pharmacien.</p>
+<h2>La réponse courte</h2>
+<ul>
+<li><strong>À quoi elles ressemblent</strong> : de petits boutons rouges qui démangent, proches de piqûres de moustique, souvent groupés ou alignés par trois à cinq, sur les zones découvertes pendant la nuit (ARS Île-de-France).</li>
+<li><strong>Quand elles apparaissent</strong> : souvent au réveil, mais la réaction peut survenir de quelques heures à 10 jours après la piqûre (Manuel MSD).</li>
+<li><strong>Combien de temps elles durent</strong> : en général quelques jours, environ une semaine (gouvernement du Québec, Manuel MSD).</li>
+<li><strong>Sont-elles dangereuses ?</strong> Les punaises de lit ne transmettent pas de maladie (Anses, ARS Île-de-France). Le risque principal vient du grattage, qui peut infecter la peau.</li>
+<li><strong>Que faire</strong> : laver à l'eau et au savon, ne pas gratter, demander conseil à un pharmacien. Consulter si la réaction est forte ou étendue.</li>
+</ul>
+<h2>Reconnaître une piqûre de punaise de lit</h2>
+<p>Les piqûres prennent le plus souvent la forme de <strong>papules rouges</strong> (petits reliefs) qui démangent, parfois avec un minuscule point au centre. Selon le Manuel MSD, elles peuvent aussi se limiter à de petits points, à des taches violacées ou, plus rarement, former des cloques.</p>
+<ul>
+<li><strong>Où ?</strong> Sur la peau exposée pendant le sommeil : bras, jambes, épaules, dos, cou ou visage (ARS Île-de-France, gouvernement du Québec).</li>
+<li><strong>Comment ?</strong> Souvent plusieurs piqûres groupées ou alignées, par trois ou quatre selon l'Anses, par trois à cinq selon l'ARS Île-de-France. Cette disposition en ligne est l'indice le plus caractéristique.</li>
+<li><strong>Quand ?</strong> Elles sont souvent découvertes au réveil. Les démangeaisons sont généralement plus fortes tôt le matin et diminuent dans la journée (gouvernement du Québec).</li>
+</ul>
+<h2>Pourquoi une piqûre ne suffit pas à conclure</h2>
+<ul>
+<li><strong>Elles ressemblent à d'autres piqûres.</strong> L'Anses rappelle qu'elles ressemblent à celles d'autres insectes, et le Manuel MSD indique que même un médecin peut avoir du mal à poser le diagnostic sur le seul aspect de la peau.</li>
+<li><strong>Tout le monde ne réagit pas.</strong> Environ 30 % des personnes n'ont aucune réaction cutanée visible, ce qui peut laisser une infestation passer inaperçue pendant des semaines (ARS Île-de-France). Dans un même lit, une seule personne peut présenter des boutons (gouvernement du Québec).</li>
+<li><strong>La réaction peut être tardive.</strong> Elle peut apparaître jusqu'à 10 jours après la piqûre (Manuel MSD) : des boutons au retour de voyage peuvent donc venir de l'hôtel.</li>
+</ul>
+<p>Pour confirmer, il faut trouver d'autres indices dans le logement : insectes bruns de 4 à 7 mm, petits points noirs (déjections) ou taches de sang sur les draps, mues dans les coutures du matelas. Notre guide <a href="/reconnaitre-punaises-de-lit.html">reconnaître les punaises de lit</a> détaille ces signes. En cas de doute persistant, une <a href="/detection-canine-punaises-de-lit-toulouse.html">détection canine</a> permet de trancher.</p>
+<h2>Soulager les démangeaisons</h2>
+<ol>
+<li><strong>Lavez la peau</strong> à l'eau fraîche avec un savon doux non parfumé (gouvernement du Québec, ARS Île-de-France).</li>
+<li><strong>Évitez de vous gratter</strong>, pour limiter le risque d'infection. Garder les ongles courts aide, surtout chez les enfants.</li>
+<li><strong>Demandez conseil à votre pharmacien</strong> : il peut vous orienter vers une crème apaisante adaptée. Selon le Manuel MSD, un médecin peut prescrire une crème à base de corticoïdes et des antihistaminiques par voie orale si les démangeaisons sont importantes.</li>
+<li><strong>Traitez le logement</strong> : soigner la peau ne règle rien si les punaises restent. Comme le rappelle l'ARS Île-de-France, seule leur élimination évite que les piqûres reviennent.</li>
+</ol>
+<p>Les marques disparaissent généralement seules en quelques jours si la peau n'est pas piquée à nouveau (gouvernement du Québec). L'ARS Auvergne-Rhône-Alpes parle d'une dizaine de jours.</p>
+<h2>Quand consulter un médecin ou un pharmacien</h2>
+<p>Le gouvernement du Québec et l'ARS Île-de-France recommandent de consulter dans les cas suivants :</p>
+<ul>
+<li>réaction allergique importante ou urticaire ;</li>
+<li>lésions étendues ou très nombreuses ;</li>
+<li>apparition de cloques ;</li>
+<li>peau qui gonfle, devient très rouge, chaude ou douloureuse (signes possibles d'infection) ;</li>
+<li>démangeaisons qui persistent ou gênent beaucoup, notamment le sommeil.</li>
+</ul>
+<p>En cas de gêne respiratoire, de gonflement du visage ou des lèvres, ou de malaise, appelez immédiatement le 15 ou le 112. Pour un bébé, une femme enceinte ou une personne fragile, demandez un avis médical sans attendre.</p>
+<h2>Sommeil, stress, anxiété : un impact à ne pas négliger</h2>
+<p>L'ARS Île-de-France souligne que les effets psychologiques constituent souvent l'impact sanitaire le plus important d'une infestation : troubles du sommeil, fatigue, anxiété, isolement. L'Anses note aussi que la peur d'être stigmatisé pousse certaines personnes à ne pas en parler, ce qui retarde le traitement. Avoir des punaises de lit n'est pas lié à un manque d'hygiène. Si le sommeil ou le moral sont durablement affectés, parlez-en à votre médecin.</p>
+<h2>Et ensuite ?</h2>
+<p>Si les piqûres s'accompagnent d'autres indices, agissez vite : ne déplacez pas vos affaires dans d'autres pièces, ne dormez pas ailleurs dans le logement et suivez notre guide <a href="/que-faire-punaises-de-lit.html">que faire en attendant le professionnel</a>. Pour la suite : <a href="/prix-traitement-punaises-de-lit-toulouse.html">les prix d'un traitement à Toulouse</a>, <a href="/combien-de-temps-se-debarrasser-punaises-de-lit.html">combien de temps pour s'en débarrasser</a> et, si vous êtes locataire, <a href="/punaises-de-lit-locataire-proprietaire.html">qui paie le traitement</a>. Le numéro national d'information est le 0806 706 806 (prix d'un appel local), et le site officiel stop-punaises.gouv.fr.</p>
+<p class="note">Sources consultées le 19 octobre 2026 : ARS Île-de-France, « Punaises de lit en Île-de-France : prévention, piqûres et traitements » (mise à jour août 2026) ; Gouvernement du Québec, « Piqûres de punaises de lit » (juin 2023) ; Manuel MSD grand public, « Infestation de punaises de lit » (J. Dinulos, révision novembre 2025) ; Anses, « Bed bugs in 13 questions » (octobre 2023) ; ARS Auvergne-Rhône-Alpes, dépliant « Punaises de lit » (mai 2024). Ce guide ne remplace pas l'avis d'un professionnel de santé.</p>''',
+faq=[("Comment reconnaître une piqûre de punaise de lit ?","Ce sont de petits boutons rouges qui démangent, proches de piqûres de moustique, souvent groupés ou alignés par trois à cinq sur les zones découvertes la nuit (bras, jambes, épaules, cou). Ils sont souvent découverts au réveil. Seuls, ils ne prouvent pas la présence de punaises : cherchez aussi des insectes, des points noirs ou des taches de sang sur la literie."),
+("Combien de temps durent les piqûres de punaises de lit ?","En général quelques jours, environ une semaine, si la peau n'est pas piquée à nouveau. La réaction peut toutefois apparaître de quelques heures à 10 jours après la piqûre."),
+("Les punaises de lit transmettent-elles des maladies ?","Non. L'Anses et les agences régionales de santé indiquent que les punaises de lit ne transmettent pas de maladie. Le risque vient surtout du grattage, qui peut provoquer une infection de la peau, et de l'impact sur le sommeil et le moral."),
+("Que mettre sur une piqûre de punaise de lit ?","Lavez la peau à l'eau fraîche et au savon doux, évitez de gratter et demandez conseil à un pharmacien pour une crème apaisante. Si les démangeaisons sont fortes, un médecin peut prescrire un traitement adapté."),
+("Quand faut-il consulter pour des piqûres de punaises de lit ?","En cas de réaction allergique, de lésions étendues, de cloques, de peau gonflée, chaude ou douloureuse, ou de démangeaisons qui empêchent de dormir. En cas de gêne respiratoire ou de gonflement du visage, appelez le 15 ou le 112.")],
+date='2026-10-19')
 
 print('ok')
