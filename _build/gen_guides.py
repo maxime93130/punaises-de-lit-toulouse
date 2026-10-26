@@ -15,6 +15,7 @@ GUIDES=[
  ('punaises-de-lit-voyage-hotel.html','Voyage et hôtel : ne pas les ramener'),
  ('piqures-punaises-de-lit.html','Piqûres : reconnaître et soulager'),
  ('terre-de-diatomee-insecticides-remedes-punaises-de-lit.html','Diatomée, insecticides, remèdes maison'),
+ ('punaises-de-lit-copropriete-syndic.html','Copropriété : le rôle du syndic'),
 ]
 MOIS=['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre']
 def fr_date(d):
@@ -187,7 +188,7 @@ guide('punaises-de-lit-locataire-proprietaire.html',
 <h2>Les cas où le locataire peut devoir payer</h2>
 <p>Le propriétaire peut demander au locataire de prendre en charge le traitement s'il prouve que celui-ci est responsable de l'infestation : par exemple des punaises rapportées dans des meubles achetés d'occasion, un signalement très tardif qui a laissé l'infestation s'étendre, ou le refus de laisser intervenir l'entreprise. C'est au propriétaire d'apporter cette preuve.</p>
 <h2>En copropriété</h2>
-<p>Si l'infestation touche plusieurs logements ou vient des parties communes, le syndic doit être prévenu pour organiser un traitement coordonné. Traiter un seul appartement quand les voisins sont infestés conduit presque toujours à une réinfestation.</p>
+<p>Si l'infestation touche plusieurs logements ou vient des parties communes, le syndic doit être prévenu pour organiser un traitement coordonné. Traiter un seul appartement quand les voisins sont infestés conduit presque toujours à une réinfestation. Voir notre guide <a href="/punaises-de-lit-copropriete-syndic.html">punaises de lit en copropriété</a>.</p>
 <h2>Les démarches pour le locataire</h2>
 <ol>
 <li>Prévenir le propriétaire ou l'agence <strong>par écrit</strong> (email puis lettre recommandée), avec photos et date des premiers signes.</li>
@@ -597,5 +598,60 @@ faq=[("La terre de diatomée tue-t-elle les punaises de lit ?","Oui, mais lentem
 ("Les huiles essentielles font-elles fuir les punaises de lit ?","Non. Dans une étude de l'université Rutgers (2014), la plupart des produits à base d'huiles essentielles ne tuaient que 0 à 30 % des punaises pulvérisées directement, et aucun effet répulsif n'a été mesuré."),
 ("Le Sniper 1000 est-il autorisé en France ?","Non. Le Sniper 1000 contient du dichlorvos, interdit en France depuis 2013. L'Anses a recensé 206 personnes exposées et trois décès entre 2018 et mi-2023. N'utilisez jamais ce type de produit acheté sur un marché, à l'étranger ou en ligne.")],
 date='2026-10-23')
+
+# 13. COPROPRIETE (2026-10-26)
+guide('punaises-de-lit-copropriete-syndic.html',
+"Punaises de lit en copropriété : rôle du syndic, qui paie, que faire",
+"Punaises de lit dans un immeuble en copropriété : quand prévenir le syndic, ce que disent la loi de 1965 et la loi de 1989, qui paie le traitement et comment organiser une lutte coordonnée.",
+"Punaises de lit en copropriété : le rôle du syndic et qui paie",
+"Copropriété et syndic",
+'''<p class="intro">Dans un immeuble, les punaises de lit passent d'un appartement à l'autre par les gaines, les plinthes, les prises électriques ou les meubles déposés dans les parties communes. Traiter un seul logement quand le voisin est infesté ne règle souvent rien. Voici qui doit agir en copropriété, qui paie, et comment s'organiser pour éviter les réinfestations.</p>
+<h2>La réponse courte</h2>
+<ul>
+<li><strong>Un seul logement touché</strong> : c'est une affaire privée. Le propriétaire occupant fait traiter son logement ; en location, c'est en principe le bailleur qui paie (loi du 6 juillet 1989).</li>
+<li><strong>Plusieurs logements ou parties communes touchés</strong> : le syndic doit être prévenu. Il est chargé de la conservation et de l'entretien de l'immeuble et peut organiser un traitement coordonné.</li>
+<li><strong>Le coût des parties communes</strong> est en principe supporté par l'ensemble des copropriétaires, selon les règles de répartition des charges. Celui des logements reste à la charge de leurs propriétaires.</li>
+<li><strong>Un propriétaire qui ne fait rien</strong> alors que son lot contamine l'immeuble peut voir sa responsabilité engagée.</li>
+</ul>
+<h2>Ce que disent les textes</h2>
+<ul>
+<li><strong>Loi du 10 juillet 1965, article 14</strong> : le syndicat des copropriétaires a pour objet la conservation de l'immeuble et l'administration des parties communes. Il peut être tenu responsable des dommages qui ont leur origine dans les parties communes.</li>
+<li><strong>Même loi, article 18</strong> : le syndic administre l'immeuble et pourvoit à sa conservation, à sa garde et à son entretien. En cas d'urgence, il peut faire réaliser de sa propre initiative les travaux nécessaires à la sauvegarde de l'immeuble, à charge d'en informer les copropriétaires et de convoquer une assemblée générale.</li>
+<li><strong>Même loi, article 9</strong> : chaque copropriétaire use librement de son lot, à condition de ne pas porter atteinte aux droits des autres. Un foyer d'infestation laissé sans traitement peut être considéré comme un trouble pour les voisins.</li>
+<li><strong>Loi du 6 juillet 1989, article 6</strong> (modifié par la loi ELAN de 2018) : le bailleur doit louer un logement décent, exempt de toute infestation d'espèces nuisibles et parasites.</li>
+<li><strong>Code de la santé publique, article R. 1331-45</strong> (décret du 29 juillet 2023, en vigueur depuis le 1er octobre 2023) : toutes les mesures nécessaires doivent être prises pour prévenir la prolifération des « animaux causes de nuisances pour la santé humaine » dans les locaux d'habitation et, en cas d'urgence, pour y remédier par le nettoyage, la désinfection et la lutte contre les nuisibles.</li>
+</ul>
+<h2>Qui fait quoi dans l'immeuble</h2>
+<h3>L'occupant (propriétaire ou locataire)</h3>
+<p>Il prévient le plus tôt possible : le bailleur s'il est locataire, le syndic si les signes apparaissent aussi chez les voisins ou dans les parties communes. Il facilite l'accès de l'entreprise et suit les consignes de préparation. La réponse du ministère du Logement publiée au Journal officiel le 23 avril 2024 rappelle que le locataire ne peut pas s'opposer à l'intervention, et que la notice annexée aux baux précise qu'il doit permettre l'accès au logement pour la désinsectisation.</p>
+<h3>Le bailleur</h3>
+<p>Il fait traiter le logement loué et en supporte le coût, sauf s'il prouve que le locataire est responsable de l'infestation (voir notre guide <a href="/punaises-de-lit-locataire-proprietaire.html">locataire ou propriétaire</a>). Il informe le syndic si l'infestation risque de toucher l'immeuble. La cour d'appel de Paris (30 juin 2022, n° 22/00511) a admis que le copropriétaire bailleur qui n'agit pas après une mise en demeure du syndicat peut devoir lui rembourser le coût des interventions.</p>
+<h3>Le syndic</h3>
+<p>Il centralise les signalements, informe les résidents sans désigner de logement, fait établir un diagnostic par une entreprise, demande des devis et coordonne les passages pour que tous les logements concernés soient traités dans la même période. Il fait traiter les parties communes touchées (locaux poubelles, caves, couloirs, gaines). Si un occupant refuse l'accès alors que l'immeuble est menacé, le syndicat peut saisir le juge.</p>
+<h3>Le conseil syndical et l'assemblée générale</h3>
+<p>Le conseil syndical assiste et contrôle le syndic. Il peut lui demander d'inscrire la question à l'ordre du jour de l'assemblée générale : traitement global, budget de prévention, règles sur les encombrants et les meubles déposés dans les parties communes.</p>
+<h2>Pourquoi un traitement coordonné</h2>
+<p>Les punaises de lit se déplacent entre logements mitoyens. Les pouvoirs publics, à la suite de l'avis de l'Anses de 2023, insistent sur l'importance d'agir tôt. Un traitement réalisé appartement par appartement, à plusieurs semaines d'écart, laisse aux insectes le temps de se réfugier chez le voisin et de revenir. En pratique, une bonne coordination consiste à :</p>
+<ol>
+<li>Faire inspecter les logements voisins de celui qui est infesté (dessus, dessous, de part et d'autre), par exemple avec une <a href="/detection-canine-punaises-de-lit-toulouse.html">détection canine</a>.</li>
+<li>Traiter en même temps tous les logements où des punaises sont trouvées, avec la même entreprise si possible.</li>
+<li>Prévoir les deux ou trois passages habituels et une surveillance pendant plusieurs semaines (voir <a href="/combien-de-temps-se-debarrasser-punaises-de-lit.html">combien de temps pour s'en débarrasser</a>).</li>
+<li>Interdire le dépôt de matelas et de meubles dans les parties communes, et rappeler comment <a href="/faut-il-jeter-matelas-punaises-de-lit.html">jeter un matelas infesté</a> sans contaminer l'immeuble.</li>
+</ol>
+<h2>Modèle de démarche pour un copropriétaire ou un locataire</h2>
+<ol>
+<li>Rassemblez les preuves : photos des insectes ou des traces, date des premières piqûres, diagnostic écrit d'une entreprise si possible.</li>
+<li>Écrivez au syndic (email puis lettre recommandée avec accusé de réception) en décrivant les faits et en demandant une inspection des logements voisins et des parties communes.</li>
+<li>Si vous êtes locataire, écrivez en parallèle à votre bailleur ou à votre agence.</li>
+<li>Sans réponse, sollicitez le conseil syndical, puis le service hygiène de votre mairie.</li>
+<li>Pour connaître vos droits, l'ADIL de la Haute-Garonne informe gratuitement locataires et propriétaires. Le site public stop-punaises.gouv.fr et son numéro 0806 706 806 donnent aussi des conseils.</li>
+</ol>
+<p class="note">Sources consultées le 26 octobre 2026 : loi n° 65-557 du 10 juillet 1965 (articles 9, 14 et 18), telle que présentée par Me R. Hairon (avocat.fr), MesDépanneurs.fr (mars 2026) et MySweetImmo (novembre 2023) ; loi n° 89-462 du 6 juillet 1989, article 6 ; décret n° 2023-695 du 29 juillet 2023 et article R. 1331-45 du code de la santé publique, cités dans les réponses ministérielles aux questions écrites n° 12118 et 12399 (JO du 12 décembre 2023) ; réponse du ministère du Logement à la question écrite n° 12397 (JO du 23 avril 2024) ; Me V. Simonnet, « Punaises de lit : bailleur, locataire ou syndic, qui doit payer ? » (mis à jour en octobre 2024), pour l'arrêt de la cour d'appel de Paris du 30 juin 2022 ; Anses, avis et rapport de juillet 2023 ; INC, « Punaises de lit et logement collectif » (janvier 2025). Cette page donne une information générale et ne remplace pas un conseil juridique : votre règlement de copropriété et un professionnel du droit restent les références pour un cas précis.</p>''',
+faq=[("Le syndic est-il obligé d'intervenir contre les punaises de lit ?","Le syndic doit pourvoir à la conservation, à la garde et à l'entretien de l'immeuble (article 18 de la loi du 10 juillet 1965). Si les parties communes sont touchées ou si l'infestation s'étend à plusieurs logements, il lui revient d'organiser un diagnostic et un traitement coordonné. Pour un seul logement, l'affaire reste en principe privée."),
+("Qui paie le traitement des punaises de lit en copropriété ?","Le traitement des parties communes est en principe réparti entre tous les copropriétaires selon les règles de charges. Le traitement d'un logement est payé par son propriétaire, y compris quand il est loué, sauf faute prouvée du locataire."),
+("Un voisin refuse de traiter son appartement, que faire ?","Prévenez le syndic par écrit. Il peut mettre en demeure le copropriétaire concerné et, si l'immeuble est menacé, le syndicat peut saisir le juge. Un copropriétaire qui laisse un foyer d'infestation se propager peut voir sa responsabilité engagée."),
+("Faut-il prévenir ses voisins en cas de punaises de lit ?","C'est vivement conseillé. Les punaises passent facilement d'un logement à l'autre, et un voisin infesté qui ne se traite pas peut vous réinfester. Informer le syndic permet de prévenir les résidents sans désigner votre logement."),
+("Le locataire peut-il refuser l'accès à l'entreprise de désinsectisation ?","Non. La notice d'information annexée aux baux précise que le locataire doit permettre l'accès au logement pour la désinsectisation, et sa responsabilité peut être engagée en cas de refus.")],
+date='2026-10-26')
 
 print('ok')
