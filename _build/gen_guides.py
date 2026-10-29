@@ -16,6 +16,7 @@ GUIDES=[
  ('piqures-punaises-de-lit.html','Piqûres : reconnaître et soulager'),
  ('terre-de-diatomee-insecticides-remedes-punaises-de-lit.html','Diatomée, insecticides, remèdes maison'),
  ('punaises-de-lit-copropriete-syndic.html','Copropriété : le rôle du syndic'),
+ ('punaises-de-lit-tournefeuille.html','Punaises de lit à Tournefeuille'),
 ]
 MOIS=['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre']
 def fr_date(d):
@@ -653,5 +654,56 @@ faq=[("Le syndic est-il obligé d'intervenir contre les punaises de lit ?","Le s
 ("Faut-il prévenir ses voisins en cas de punaises de lit ?","C'est vivement conseillé. Les punaises passent facilement d'un logement à l'autre, et un voisin infesté qui ne se traite pas peut vous réinfester. Informer le syndic permet de prévenir les résidents sans désigner votre logement."),
 ("Le locataire peut-il refuser l'accès à l'entreprise de désinsectisation ?","Non. La notice d'information annexée aux baux précise que le locataire doit permettre l'accès au logement pour la désinsectisation, et sa responsabilité peut être engagée en cas de refus.")],
 date='2026-10-26')
+
+# 14. TOURNEFEUILLE (2026-10-29)
+guide('punaises-de-lit-tournefeuille.html',
+"Punaises de lit à Tournefeuille (31170) : que faire, qui contacter",
+"Punaises de lit à Tournefeuille : premiers gestes en maison ou en appartement, contacts utiles (mairie, CCAS, ADIL 31), encombrants et déchèterie, prix d'un traitement et devis gratuit.",
+"Punaises de lit à Tournefeuille : que faire et qui contacter",
+"Tournefeuille",
+'''<p class="intro">Tournefeuille, commune de Toulouse Métropole limitrophe de Toulouse à l'ouest, compte 30 168 habitants selon l'Insee (population de référence 2023). Comme partout dans la métropole, les punaises de lit y arrivent surtout dans les bagages, les meubles d'occasion et lors des déménagements. Voici les bons réflexes et les contacts locaux si vous en trouvez chez vous.</p>
+<h2>Un parc de logements surtout fait de maisons</h2>
+<p>D'après les données Insee 2023, les maisons représentent environ 57,5 % des logements de Tournefeuille et les appartements 42,5 %. Environ 56 % des résidences principales sont occupées par leur propriétaire et 44 % par des locataires. Ce profil change la façon d'aborder une infestation :</p>
+<ul>
+<li><strong>En maison</strong>, la surface à inspecter est plus grande et les punaises peuvent se cacher dans plusieurs chambres, le canapé du salon ou une chambre d'amis peu utilisée. Une inspection pièce par pièce, voire une <a href="/detection-canine-punaises-de-lit-toulouse.html">détection canine</a>, aide à cibler le traitement et à ne pas payer pour des pièces saines.</li>
+<li><strong>En appartement</strong>, les logements voisins peuvent être touchés. Si vous êtes en copropriété, lisez notre guide sur <a href="/punaises-de-lit-copropriete-syndic.html">le rôle du syndic</a>.</li>
+<li><strong>En location</strong>, le bailleur doit fournir un logement exempt de toute infestation d'espèces nuisibles et parasites (article 6 de la loi du 6 juillet 1989). Le détail figure dans notre guide <a href="/punaises-de-lit-locataire-proprietaire.html">locataire ou propriétaire : qui paie ?</a></li>
+</ul>
+<h2>Les premiers gestes, dès les premiers signes</h2>
+<ol>
+<li><strong>Confirmez</strong> : cherchez des insectes bruns de la taille d'un pépin de pomme, des petites taches noires sur les coutures du matelas et du sommier, des mues. Notre guide <a href="/reconnaitre-punaises-de-lit.html">reconnaître les punaises de lit</a> vous aide à faire le tri. Des piqûres seules ne suffisent pas à conclure (voir <a href="/piqures-punaises-de-lit.html">piqûres de punaises de lit</a>).</li>
+<li><strong>Ne déplacez rien</strong> d'une pièce à l'autre et ne dormez pas ailleurs dans la maison : vous risquez d'étendre l'infestation.</li>
+<li><strong>Lavez le linge à 60 °C</strong> ou passez-le au sèche-linge chaud au moins 30 minutes, puis rangez-le dans des sacs fermés, comme le recommande le site officiel stop-punaises.gouv.fr.</li>
+<li><strong>N'utilisez pas d'insecticide en spray ou en diffuseur</strong> : ils dispersent les punaises sans les éliminer (voir <a href="/terre-de-diatomee-insecticides-remedes-punaises-de-lit.html">ce qui marche et ce qui ne marche pas</a>).</li>
+<li><strong>Faites établir un diagnostic</strong> par une entreprise certifiée, puis comparez les devis. Notre guide <a href="/que-faire-punaises-de-lit.html">que faire en attendant le professionnel</a> détaille la préparation.</li>
+</ol>
+<h2>Se débarrasser d'un matelas ou d'un meuble infesté à Tournefeuille</h2>
+<p>Ne déposez jamais un matelas infesté sur le trottoir sans rendez-vous : il peut être récupéré et contaminer un autre foyer. Emballez-le dans un film plastique fermé et rendez-le inutilisable (voir <a href="/faut-il-jeter-matelas-punaises-de-lit.html">faut-il jeter son matelas ?</a>). Ensuite, à Tournefeuille :</p>
+<ul>
+<li><strong>Encombrants</strong> : la collecte se fait uniquement sur rendez-vous auprès de Toulouse Métropole Interventions, au 0800 201 440 (appel gratuit) ou en ligne sur le site de Toulouse Métropole. Les objets sont sortis la veille au soir, au plus tôt à 20 h, et chaque objet doit peser 50 kg maximum. Le guide pratique de la ville indique qu'on peut aussi s'inscrire auprès du secrétariat des services techniques municipaux.</li>
+<li><strong>Déchèterie</strong> : le guide pratique de la ville oriente vers la déchèterie Decoset de Plaisance-du-Touch, 2 rue du Docteur Charcot (05 62 89 03 41). Depuis le 1er mars 2024, le Pass déchèterie est obligatoire pour y accéder (demande sur decoset.fr). La déchèterie de Cugnaux, 1 route de Portet, figure aussi dans la liste des déchèteries de la métropole.</li>
+</ul>
+<h2>Les contacts utiles à Tournefeuille et autour</h2>
+<ul>
+<li><strong>Mairie de Tournefeuille</strong> : place de la Mairie, 31170 Tournefeuille, 05 62 13 21 21, du lundi au vendredi de 8 h 30 à 17 h 30.</li>
+<li><strong>CCAS et service Logement de la ville</strong> : allée Samuel Paty, derrière l'hôtel de ville, 05 62 13 21 09 (service Logement sur rendez-vous). Le CCAS accueille aussi un Point Conseil Budget, utile si le coût d'un traitement met votre budget en difficulté.</li>
+<li><strong>ADIL de la Haute-Garonne</strong> : 4 rue Furgole, 31000 Toulouse, 05 61 22 46 22. Information juridique gratuite pour les locataires et les propriétaires, par exemple en cas de désaccord sur la prise en charge du traitement.</li>
+<li><strong>Information nationale</strong> : 0806 706 806 (prix d'un appel local) et <a href="https://stop-punaises.gouv.fr/" rel="noopener">stop-punaises.gouv.fr</a>.</li>
+<li><strong>Votre médecin ou votre pharmacien</strong> si les piqûres provoquent une forte réaction ou une gêne importante.</li>
+</ul>
+<h2>Combien coûte un traitement à Tournefeuille ?</h2>
+<p>Aucune source publique ne donne de tarif propre à Tournefeuille : les fourchettes observées pour la métropole toulousaine servent de repère, et certaines entreprises ajoutent des frais de déplacement. Le prix dépend surtout de la surface, du nombre de pièces touchées, du degré d'infestation et de la méthode (chaleur, vapeur, cryogénie, produits biocides, souvent combinés). Pour une maison, demandez si le devis porte sur toute la surface ou seulement sur les pièces infestées, et combien de passages sont inclus. Nos fourchettes de prix, sourcées et mises à jour, sont dans le guide <a href="/prix-traitement-punaises-de-lit-toulouse.html">prix d'un traitement contre les punaises de lit à Toulouse</a>.</p>
+<h2>Bien choisir l'entreprise</h2>
+<ul>
+<li>Exigez le <strong>certificat Certibiocide</strong> si l'entreprise utilise des produits biocides.</li>
+<li>Demandez un <strong>diagnostic avant devis</strong> et un devis écrit détaillé : méthode, nombre de passages, délai entre les passages, garantie éventuelle.</li>
+<li>Méfiez-vous des prix annoncés au téléphone sans visite et des demandes de paiement intégral avant intervention.</li>
+</ul>
+<p class="note">Sources consultées le 29 octobre 2026 : Insee, populations de référence 2023 et recensement 2023 (statut d'occupation et type de logement, données reprises par villesavivre.fr) ; Toulouse Métropole, pages « Commune de Tournefeuille », « Les encombrants » et « Les déchèteries » ; Ville de Tournefeuille, guide pratique 2026 ; ARS Occitanie, fiche pratique punaises de lit (2021) ; stop-punaises.gouv.fr ; loi n° 89-462 du 6 juillet 1989, article 6. Tada House est un service de mise en relation, sans lien avec la mairie de Tournefeuille ni avec Toulouse Métropole.</p>''',
+faq=[("Qui contacter à Tournefeuille en cas de punaises de lit ?","Pour le traitement, une entreprise de désinsectisation certifiée. Pour vos droits de locataire ou de propriétaire, l'ADIL de la Haute-Garonne (05 61 22 46 22) informe gratuitement. La mairie (05 62 13 21 21) et son CCAS (05 62 13 21 09) peuvent vous orienter, notamment en cas de difficulté de logement ou de budget."),
+("Comment jeter un matelas infesté à Tournefeuille ?","Emballez-le dans un film plastique fermé et rendez-le inutilisable, puis prenez rendez-vous pour la collecte des encombrants auprès de Toulouse Métropole Interventions au 0800 201 440, ou apportez-le en déchèterie avec votre Pass déchèterie. Ne le laissez jamais sur le trottoir sans rendez-vous."),
+("Faut-il traiter toute la maison ?","Pas forcément. Un diagnostic, visuel ou par détection canine, permet de savoir quelles pièces sont touchées. Les pièces voisines de la zone infestée sont souvent incluses par précaution. Demandez que le devis précise les pièces traitées et le nombre de passages."),
+("Le prix est-il différent à Tournefeuille et à Toulouse ?","Aucune source publique ne donne de tarif propre à Tournefeuille. Les fourchettes de prix de la métropole toulousaine servent de repère ; certaines entreprises facturent en plus un déplacement. Faites préciser ce point sur le devis.")],
+date='2026-10-29')
 
 print('ok')
