@@ -17,6 +17,7 @@ GUIDES=[
  ('terre-de-diatomee-insecticides-remedes-punaises-de-lit.html','Diatomée, insecticides, remèdes maison'),
  ('punaises-de-lit-copropriete-syndic.html','Copropriété : le rôle du syndic'),
  ('punaises-de-lit-tournefeuille.html','Punaises de lit à Tournefeuille'),
+ ('punaises-de-lit-castanet-tolosan.html','Punaises de lit à Castanet-Tolosan'),
 ]
 MOIS=['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre']
 def fr_date(d):
@@ -705,5 +706,57 @@ faq=[("Qui contacter à Tournefeuille en cas de punaises de lit ?","Pour le trai
 ("Faut-il traiter toute la maison ?","Pas forcément. Un diagnostic, visuel ou par détection canine, permet de savoir quelles pièces sont touchées. Les pièces voisines de la zone infestée sont souvent incluses par précaution. Demandez que le devis précise les pièces traitées et le nombre de passages."),
 ("Le prix est-il différent à Tournefeuille et à Toulouse ?","Aucune source publique ne donne de tarif propre à Tournefeuille. Les fourchettes de prix de la métropole toulousaine servent de repère ; certaines entreprises facturent en plus un déplacement. Faites préciser ce point sur le devis.")],
 date='2026-10-29')
+
+# 15. CASTANET-TOLOSAN (2026-11-02)
+guide('punaises-de-lit-castanet-tolosan.html',
+"Punaises de lit à Castanet-Tolosan (31320) : que faire, qui contacter",
+"Punaises de lit à Castanet-Tolosan : premiers gestes en appartement, contacts utiles (mairie, France Services, ADIL 31), encombrants et déchèteries du Sicoval, prix d'un traitement et devis gratuit.",
+"Punaises de lit à Castanet-Tolosan : que faire et qui contacter",
+"Castanet-Tolosan",
+'''<p class="intro">Castanet-Tolosan, au sud-est de Toulouse, compte 15 317 habitants selon l'Insee (population municipale 2023). La commune ne fait pas partie de Toulouse Métropole : elle appartient à la communauté d'agglomération du Sicoval, ce qui change les démarches pour les encombrants et la déchèterie. Voici les bons réflexes et les contacts locaux si vous trouvez des punaises de lit chez vous.</p>
+<h2>Une commune surtout d'appartements et de locataires</h2>
+<p>D'après les données Insee 2023, les appartements représentent environ 63,7 % des logements de Castanet-Tolosan et les maisons 36,3 %. Environ 55 % des résidences principales sont occupées par des locataires et 45 % par leur propriétaire. Ce profil compte quand une infestation apparaît :</p>
+<ul>
+<li><strong>En appartement</strong>, les punaises peuvent passer d'un logement à l'autre par les gaines, les plinthes ou les parties communes. Prévenez vos voisins et, en copropriété, le syndic : notre guide sur <a href="/punaises-de-lit-copropriete-syndic.html">le rôle du syndic</a> explique qui fait quoi.</li>
+<li><strong>En location</strong>, le bailleur doit fournir un logement exempt de toute infestation d'espèces nuisibles et parasites (article 6 de la loi du 6 juillet 1989). Prévenez-le par écrit dès les premiers signes. Le détail figure dans notre guide <a href="/punaises-de-lit-locataire-proprietaire.html">locataire ou propriétaire : qui paie ?</a></li>
+<li><strong>En maison</strong>, la surface à inspecter est plus grande : une <a href="/detection-canine-punaises-de-lit-toulouse.html">détection canine</a> aide à cibler les pièces réellement touchées.</li>
+</ul>
+<h2>Les premiers gestes, dès les premiers signes</h2>
+<ol>
+<li><strong>Confirmez</strong> : cherchez des insectes bruns de la taille d'un pépin de pomme, des petites taches noires sur les coutures du matelas et du sommier, des mues. Notre guide <a href="/reconnaitre-punaises-de-lit.html">reconnaître les punaises de lit</a> vous aide à faire le tri. Des piqûres seules ne suffisent pas à conclure (voir <a href="/piqures-punaises-de-lit.html">piqûres de punaises de lit</a>).</li>
+<li><strong>Ne déplacez rien</strong> d'une pièce à l'autre et n'allez pas dormir sur le canapé : vous risquez d'étendre l'infestation.</li>
+<li><strong>Lavez le linge à 60 °C</strong> ou passez-le au sèche-linge chaud au moins 30 minutes, puis rangez-le dans des sacs fermés, comme le recommande le site officiel stop-punaises.gouv.fr.</li>
+<li><strong>N'utilisez pas d'insecticide en spray ou en diffuseur</strong> : ils dispersent les punaises sans les éliminer (voir <a href="/terre-de-diatomee-insecticides-remedes-punaises-de-lit.html">ce qui marche et ce qui ne marche pas</a>).</li>
+<li><strong>Faites établir un diagnostic</strong> par une entreprise certifiée, puis comparez les devis. Notre guide <a href="/que-faire-punaises-de-lit.html">que faire en attendant le professionnel</a> détaille la préparation.</li>
+</ol>
+<h2>Se débarrasser d'un matelas ou d'un meuble infesté à Castanet-Tolosan</h2>
+<p>Ne déposez jamais un matelas infesté sur le trottoir ou près des colonnes de tri : il peut être récupéré et contaminer un autre foyer. Emballez-le dans un film plastique fermé et rendez-le inutilisable (voir <a href="/faut-il-jeter-matelas-punaises-de-lit.html">faut-il jeter son matelas ?</a>). À Castanet-Tolosan, c'est le Sicoval qui gère les déchets, pas Toulouse Métropole :</p>
+<ul>
+<li><strong>Déchèterie</strong> : la solution la plus adaptée pour un matelas infesté. La plus proche est celle de Ramonville, chemin des Romains (05 34 65 41 78), fermée le lundi et les jours fériés ; le Sicoval gère aussi les déchèteries de Montgiscard et de Labège. Depuis le 1er mars 2024, le Pass Déchèterie est obligatoire pour y accéder ; il est gratuit et se demande en ligne sur le site du Sicoval.</li>
+<li><strong>Collecte des encombrants</strong> : le Sicoval propose un enlèvement à domicile sur rendez-vous (05 62 24 02 02 ou démarches en ligne sur sicoval.fr), mais ce service vise les objets en bon état, à raison de 5 objets au maximum par collecte. Un matelas infesté et emballé relève plutôt de la déchèterie : en cas de doute, posez la question au Sicoval en précisant la présence de punaises.</li>
+</ul>
+<h2>Les contacts utiles à Castanet-Tolosan et autour</h2>
+<ul>
+<li><strong>Mairie de Castanet-Tolosan</strong> : 29 avenue de Toulouse, 31320 Castanet-Tolosan, 05 62 71 70 40.</li>
+<li><strong>France Services de Castanet-Tolosan</strong> : à la même adresse, sur rendez-vous au 05 34 66 73 10. Utile pour être accompagné dans une démarche administrative, par exemple auprès de la CAF.</li>
+<li><strong>Sicoval, relation usagers</strong> : 05 62 24 02 02 pour les déchets, le Pass Déchèterie et les encombrants.</li>
+<li><strong>ADIL de la Haute-Garonne</strong> : 4 rue Furgole, 31000 Toulouse, 05 61 22 46 22. Information juridique gratuite pour les locataires et les propriétaires, par exemple en cas de désaccord sur la prise en charge du traitement.</li>
+<li><strong>Information nationale</strong> : 0806 706 806 (prix d'un appel local) et <a href="https://stop-punaises.gouv.fr/" rel="noopener">stop-punaises.gouv.fr</a>.</li>
+<li><strong>Votre médecin ou votre pharmacien</strong> si les piqûres provoquent une forte réaction ou une gêne importante.</li>
+</ul>
+<h2>Combien coûte un traitement à Castanet-Tolosan ?</h2>
+<p>Aucune source publique ne donne de tarif propre à Castanet-Tolosan : les fourchettes observées pour l'agglomération toulousaine servent de repère, et certaines entreprises ajoutent des frais de déplacement. Le prix dépend surtout de la surface, du nombre de pièces touchées, du degré d'infestation et de la méthode (chaleur, vapeur, cryogénie, produits biocides, souvent combinés). En appartement, demandez si l'entreprise peut traiter en même temps les logements voisins touchés, ce qui limite le risque de réinfestation. Nos fourchettes de prix, sourcées et mises à jour, sont dans le guide <a href="/prix-traitement-punaises-de-lit-toulouse.html">prix d'un traitement contre les punaises de lit à Toulouse</a>.</p>
+<h2>Bien choisir l'entreprise</h2>
+<ul>
+<li>Exigez le <strong>certificat Certibiocide</strong> si l'entreprise utilise des produits biocides.</li>
+<li>Demandez un <strong>diagnostic avant devis</strong> et un devis écrit détaillé : méthode, nombre de passages, délai entre les passages, garantie éventuelle.</li>
+<li>Méfiez-vous des prix annoncés au téléphone sans visite et des demandes de paiement intégral avant intervention.</li>
+</ul>
+<p class="note">Sources consultées le 2 novembre 2026 : Insee, population municipale 2023 et recensement 2023 (type de logement et statut d'occupation, données reprises par villesavivre.fr) ; base Banatic du ministère de l'Intérieur (rattachement de la commune à la CA du Sicoval) ; Sicoval, calendrier de collecte 2025 (encombrants sur rendez-vous, déchèteries, Pass Déchèterie) ; Ville de Castanet-Tolosan, magazine Castanet Lien ; CAF de la Haute-Garonne, page France Services Castanet-Tolosan ; stop-punaises.gouv.fr ; loi n° 89-462 du 6 juillet 1989, article 6. Tada House est un service de mise en relation, sans lien avec la mairie de Castanet-Tolosan ni avec le Sicoval.</p>''',
+faq=[("Qui contacter à Castanet-Tolosan en cas de punaises de lit ?","Pour le traitement, une entreprise de désinsectisation certifiée. Pour vos droits de locataire ou de propriétaire, l'ADIL de la Haute-Garonne (05 61 22 46 22) informe gratuitement. La mairie (05 62 71 70 40) et France Services (05 34 66 73 10) peuvent vous orienter dans vos démarches."),
+("Comment jeter un matelas infesté à Castanet-Tolosan ?","Emballez-le dans un film plastique fermé et rendez-le inutilisable, puis apportez-le dans une déchèterie du Sicoval, par exemple celle de Ramonville, avec votre Pass Déchèterie. La collecte des encombrants du Sicoval vise les objets en bon état : renseignez-vous au 05 62 24 02 02. Ne laissez jamais le matelas sur le trottoir."),
+("Les règles de Toulouse Métropole s'appliquent-elles à Castanet-Tolosan ?","Non pour les déchets : Castanet-Tolosan dépend du Sicoval, qui gère ses propres déchèteries et sa collecte d'encombrants. Les règles sur les punaises de lit (obligations du bailleur, rôle du syndic) sont en revanche les mêmes partout en France."),
+("Le prix est-il différent à Castanet-Tolosan et à Toulouse ?","Aucune source publique ne donne de tarif propre à Castanet-Tolosan. Les fourchettes de prix de l'agglomération toulousaine servent de repère ; certaines entreprises facturent en plus un déplacement. Faites préciser ce point sur le devis.")],
+date='2026-11-02')
 
 print('ok')
