@@ -18,6 +18,7 @@ GUIDES=[
  ('punaises-de-lit-copropriete-syndic.html','Copropriété : le rôle du syndic'),
  ('punaises-de-lit-tournefeuille.html','Punaises de lit à Tournefeuille'),
  ('punaises-de-lit-castanet-tolosan.html','Punaises de lit à Castanet-Tolosan'),
+ ('punaises-de-lit-ramonville-saint-agne.html','Punaises de lit à Ramonville-Saint-Agne'),
 ]
 MOIS=['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre']
 def fr_date(d):
@@ -758,5 +759,57 @@ faq=[("Qui contacter à Castanet-Tolosan en cas de punaises de lit ?","Pour le t
 ("Les règles de Toulouse Métropole s'appliquent-elles à Castanet-Tolosan ?","Non pour les déchets : Castanet-Tolosan dépend du Sicoval, qui gère ses propres déchèteries et sa collecte d'encombrants. Les règles sur les punaises de lit (obligations du bailleur, rôle du syndic) sont en revanche les mêmes partout en France."),
 ("Le prix est-il différent à Castanet-Tolosan et à Toulouse ?","Aucune source publique ne donne de tarif propre à Castanet-Tolosan. Les fourchettes de prix de l'agglomération toulousaine servent de repère ; certaines entreprises facturent en plus un déplacement. Faites préciser ce point sur le devis.")],
 date='2026-11-02')
+
+# 16. RAMONVILLE-SAINT-AGNE (2026-11-05)
+guide('punaises-de-lit-ramonville-saint-agne.html',
+"Punaises de lit à Ramonville-Saint-Agne (31520) : que faire, qui contacter",
+"Punaises de lit à Ramonville-Saint-Agne : premiers gestes en appartement ou en résidence étudiante, déchèterie du Sicoval, contacts utiles (mairie, Crous, ADIL 31), prix et devis gratuit.",
+"Punaises de lit à Ramonville-Saint-Agne : que faire et qui contacter",
+"Ramonville-Saint-Agne",
+'''<p class="intro">Ramonville-Saint-Agne, au sud-est de Toulouse, compte 15 158 habitants selon l'Insee (population municipale en vigueur). Comme Castanet-Tolosan, la commune ne fait pas partie de Toulouse Métropole : elle appartient à la communauté d'agglomération du Sicoval. Proche des campus du sud-est toulousain, elle accueille aussi des étudiants, avec notamment une résidence du Crous. Voici les bons réflexes et les contacts locaux si vous trouvez des punaises de lit chez vous.</p>
+<h2>Une commune d'appartements, de locataires et d'étudiants</h2>
+<p>D'après les données Insee 2023, les appartements représentent environ 68 % des logements de Ramonville-Saint-Agne et les maisons 32 %. Environ 51,5 % des résidences principales sont occupées par des locataires et 48,5 % par leur propriétaire. Les 15 à 24 ans représentent 15,7 % de la population. Ce profil compte quand une infestation apparaît :</p>
+<ul>
+<li><strong>En appartement</strong>, les punaises peuvent passer d'un logement à l'autre par les gaines, les plinthes ou les parties communes. Prévenez vos voisins et, en copropriété, le syndic : notre guide sur <a href="/punaises-de-lit-copropriete-syndic.html">le rôle du syndic</a> explique qui fait quoi.</li>
+<li><strong>En location</strong>, le bailleur doit fournir un logement exempt de toute infestation d'espèces nuisibles et parasites (article 6 de la loi du 6 juillet 1989). Prévenez-le par écrit dès les premiers signes. Le détail figure dans notre guide <a href="/punaises-de-lit-locataire-proprietaire.html">locataire ou propriétaire : qui paie ?</a></li>
+<li><strong>En résidence étudiante ou en colocation</strong>, signalez le problème tout de suite au gestionnaire de la résidence ou au propriétaire, par écrit, sans attendre que l'infestation s'étende aux chambres voisines. Le Crous gère notamment la résidence Jean Auriol, 6 mail Françoise Dolto à Ramonville. Notre guide <a href="/punaises-de-lit-etudiants-toulouse.html">punaises de lit et étudiants à Toulouse</a> détaille les démarches et qui paie.</li>
+</ul>
+<h2>Les premiers gestes, dès les premiers signes</h2>
+<ol>
+<li><strong>Confirmez</strong> : cherchez des insectes bruns de la taille d'un pépin de pomme, des petites taches noires sur les coutures du matelas et du sommier, des mues. Notre guide <a href="/reconnaitre-punaises-de-lit.html">reconnaître les punaises de lit</a> vous aide à faire le tri. Des piqûres seules ne suffisent pas à conclure (voir <a href="/piqures-punaises-de-lit.html">piqûres de punaises de lit</a>).</li>
+<li><strong>Ne déplacez rien</strong> d'une pièce à l'autre, n'allez pas dormir chez un ami ou sur le canapé sans précaution : vous risquez d'étendre l'infestation.</li>
+<li><strong>Lavez le linge à 60 °C</strong> ou passez-le au sèche-linge chaud au moins 30 minutes, puis rangez-le dans des sacs fermés, comme le recommande le site officiel stop-punaises.gouv.fr.</li>
+<li><strong>N'utilisez pas d'insecticide en spray ou en diffuseur</strong> : ils dispersent les punaises sans les éliminer (voir <a href="/terre-de-diatomee-insecticides-remedes-punaises-de-lit.html">ce qui marche et ce qui ne marche pas</a>).</li>
+<li><strong>Faites établir un diagnostic</strong> par une entreprise certifiée, puis comparez les devis. Notre guide <a href="/que-faire-punaises-de-lit.html">que faire en attendant le professionnel</a> détaille la préparation.</li>
+</ol>
+<h2>Se débarrasser d'un matelas ou d'un meuble infesté à Ramonville</h2>
+<p>Ne déposez jamais un matelas infesté sur le trottoir ou près des conteneurs : il peut être récupéré et contaminer un autre foyer. Emballez-le dans un film plastique fermé et rendez-le inutilisable (voir <a href="/faut-il-jeter-matelas-punaises-de-lit.html">faut-il jeter son matelas ?</a>). À Ramonville, c'est le Sicoval qui gère les déchets, pas Toulouse Métropole :</p>
+<ul>
+<li><strong>Déchèterie</strong> : la commune a sa propre déchèterie du Sicoval, chemin des Romains (05 34 65 41 78), fermée le lundi et les jours fériés. Depuis le 1er mars 2024, le Pass Déchèterie est obligatoire pour accéder aux déchèteries du Sicoval ; il est gratuit et se demande en ligne sur le site du Sicoval.</li>
+<li><strong>Collecte des encombrants</strong> : le Sicoval propose un enlèvement à domicile sur rendez-vous (05 62 24 02 02), mais ce service vise les objets en bon état. Un matelas infesté et emballé relève plutôt de la déchèterie : en cas de doute, posez la question au Sicoval en précisant la présence de punaises.</li>
+</ul>
+<h2>Les contacts utiles à Ramonville-Saint-Agne et autour</h2>
+<ul>
+<li><strong>Mairie de Ramonville-Saint-Agne</strong> : place Charles-de-Gaulle, 31520 Ramonville-Saint-Agne, 05 61 75 21 21.</li>
+<li><strong>Crous Toulouse Occitanie</strong> : pour un logement en résidence universitaire, passez d'abord par l'accueil ou le gestionnaire de votre résidence (résidence Jean Auriol : 05 62 25 62 62).</li>
+<li><strong>Sicoval, relation usagers</strong> : 05 62 24 02 02 pour les déchets, le Pass Déchèterie et les encombrants.</li>
+<li><strong>ADIL de la Haute-Garonne</strong> : 4 rue Furgole, 31000 Toulouse, 05 61 22 46 22. Information juridique gratuite pour les locataires et les propriétaires, par exemple en cas de désaccord sur la prise en charge du traitement.</li>
+<li><strong>Information nationale</strong> : 0806 706 806 (prix d'un appel local) et <a href="https://stop-punaises.gouv.fr/" rel="noopener">stop-punaises.gouv.fr</a>.</li>
+<li><strong>Votre médecin ou votre pharmacien</strong> si les piqûres provoquent une forte réaction ou une gêne importante.</li>
+</ul>
+<h2>Combien coûte un traitement à Ramonville-Saint-Agne ?</h2>
+<p>Aucune source publique ne donne de tarif propre à Ramonville-Saint-Agne : les fourchettes observées pour l'agglomération toulousaine servent de repère, et certaines entreprises ajoutent des frais de déplacement. Le prix dépend surtout de la surface, du nombre de pièces touchées, du degré d'infestation et de la méthode (chaleur, vapeur, cryogénie, produits biocides, souvent combinés). Pour un studio ou une chambre, le coût est en général bien inférieur à celui d'une maison entière. Nos fourchettes de prix, sourcées et mises à jour, sont dans le guide <a href="/prix-traitement-punaises-de-lit-toulouse.html">prix d'un traitement contre les punaises de lit à Toulouse</a>.</p>
+<h2>Bien choisir l'entreprise</h2>
+<ul>
+<li>Exigez le <strong>certificat Certibiocide</strong> si l'entreprise utilise des produits biocides.</li>
+<li>Demandez un <strong>diagnostic avant devis</strong> et un devis écrit détaillé : méthode, nombre de passages, délai entre les passages, garantie éventuelle.</li>
+<li>Méfiez-vous des prix annoncés au téléphone sans visite et des demandes de paiement intégral avant intervention.</li>
+</ul>
+<p class="note">Sources consultées le 5 novembre 2026 : Insee, population municipale et recensement 2023 (type de logement, statut d'occupation, structure par âge, données reprises par villesavivre.fr) ; base Banatic du ministère de l'Intérieur (rattachement de la commune à la CA du Sicoval, population municipale, coordonnées de la mairie) ; Sicoval, calendrier de collecte 2025 (déchèterie de Ramonville, encombrants sur rendez-vous, Pass Déchèterie) ; location-etudiant.fr (résidence Crous Jean Auriol) ; stop-punaises.gouv.fr ; loi n° 89-462 du 6 juillet 1989, article 6. Tada House est un service de mise en relation, sans lien avec la mairie de Ramonville-Saint-Agne, le Sicoval ni le Crous.</p>''',
+faq=[("Qui contacter à Ramonville-Saint-Agne en cas de punaises de lit ?","Pour le traitement, une entreprise de désinsectisation certifiée. Pour vos droits de locataire ou de propriétaire, l'ADIL de la Haute-Garonne (05 61 22 46 22) informe gratuitement. La mairie (05 61 75 21 21) peut vous orienter dans vos démarches. En résidence étudiante, prévenez d'abord le gestionnaire de la résidence."),
+("Comment jeter un matelas infesté à Ramonville-Saint-Agne ?","Emballez-le dans un film plastique fermé et rendez-le inutilisable, puis apportez-le à la déchèterie du Sicoval de Ramonville, chemin des Romains, avec votre Pass Déchèterie gratuit. Ne le laissez jamais sur le trottoir."),
+("Étudiant à Ramonville, qui paie le traitement ?","En location classique, le bailleur doit fournir un logement sans nuisibles, sauf s'il prouve que l'infestation vient du locataire. En résidence Crous, signalez le problème par écrit au gestionnaire, qui organise l'intervention. Notre guide étudiants détaille les cas de colocation et de résidence."),
+("Le prix est-il différent à Ramonville-Saint-Agne et à Toulouse ?","Aucune source publique ne donne de tarif propre à Ramonville-Saint-Agne. Les fourchettes de prix de l'agglomération toulousaine servent de repère ; certaines entreprises facturent en plus un déplacement. Faites préciser ce point sur le devis.")],
+date='2026-11-05')
 
 print('ok')
