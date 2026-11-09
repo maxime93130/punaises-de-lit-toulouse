@@ -19,6 +19,7 @@ GUIDES=[
  ('punaises-de-lit-tournefeuille.html','Punaises de lit à Tournefeuille'),
  ('punaises-de-lit-castanet-tolosan.html','Punaises de lit à Castanet-Tolosan'),
  ('punaises-de-lit-ramonville-saint-agne.html','Punaises de lit à Ramonville-Saint-Agne'),
+ ('punaises-de-lit-balma.html','Punaises de lit à Balma'),
 ]
 MOIS=['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre']
 def fr_date(d):
@@ -811,5 +812,55 @@ faq=[("Qui contacter à Ramonville-Saint-Agne en cas de punaises de lit ?","Pour
 ("Étudiant à Ramonville, qui paie le traitement ?","En location classique, le bailleur doit fournir un logement sans nuisibles, sauf s'il prouve que l'infestation vient du locataire. En résidence Crous, signalez le problème par écrit au gestionnaire, qui organise l'intervention. Notre guide étudiants détaille les cas de colocation et de résidence."),
 ("Le prix est-il différent à Ramonville-Saint-Agne et à Toulouse ?","Aucune source publique ne donne de tarif propre à Ramonville-Saint-Agne. Les fourchettes de prix de l'agglomération toulousaine servent de repère ; certaines entreprises facturent en plus un déplacement. Faites préciser ce point sur le devis.")],
 date='2026-11-05')
+
+# 17. BALMA (2026-11-09)
+guide('punaises-de-lit-balma.html',
+"Punaises de lit à Balma (31130) : que faire, qui contacter",
+"Punaises de lit à Balma : premiers gestes en maison ou en appartement, encombrants et déchèterie de Toulouse Métropole, contacts utiles (mairie, ADIL 31), prix et devis gratuit.",
+"Punaises de lit à Balma : que faire et qui contacter",
+"Balma",
+'''<p class="intro">Balma, commune de Toulouse Métropole limitrophe de Toulouse à l'est, compte 17 772 habitants selon l'Insee (population municipale en vigueur). Les punaises de lit y arrivent comme ailleurs dans la métropole : dans les bagages, les meubles et matelas d'occasion, lors d'un déménagement ou depuis un logement voisin. Voici les bons réflexes et les contacts locaux si vous en trouvez chez vous.</p>
+<h2>Un parc partagé entre maisons et appartements</h2>
+<p>D'après les données Insee 2023, les appartements représentent environ 54,8 % des logements de Balma et les maisons 45,2 %. Environ 55,9 % des résidences principales sont occupées par leur propriétaire et 44,1 % par des locataires. Les deux situations sont donc fréquentes, et la bonne démarche n'est pas la même :</p>
+<ul>
+<li><strong>En maison</strong>, la surface à inspecter est plus grande : chambres, canapé, chambre d'amis peu utilisée. Une inspection pièce par pièce, voire une <a href="/detection-canine-punaises-de-lit-toulouse.html">détection canine</a>, aide à cibler le traitement et à ne pas payer pour des pièces saines.</li>
+<li><strong>En appartement</strong>, les punaises peuvent passer d'un logement à l'autre par les gaines, les plinthes ou les parties communes. Prévenez vos voisins et, en copropriété, le syndic : notre guide sur <a href="/punaises-de-lit-copropriete-syndic.html">le rôle du syndic</a> explique qui fait quoi.</li>
+<li><strong>En location</strong>, le bailleur doit fournir un logement exempt de toute infestation d'espèces nuisibles et parasites (article 6 de la loi du 6 juillet 1989). Prévenez-le par écrit dès les premiers signes. Le détail figure dans notre guide <a href="/punaises-de-lit-locataire-proprietaire.html">locataire ou propriétaire : qui paie ?</a></li>
+</ul>
+<h2>Les premiers gestes, dès les premiers signes</h2>
+<ol>
+<li><strong>Confirmez</strong> : cherchez des insectes bruns de la taille d'un pépin de pomme, des petites taches noires sur les coutures du matelas et du sommier, des mues. Notre guide <a href="/reconnaitre-punaises-de-lit.html">reconnaître les punaises de lit</a> vous aide à faire le tri. Des piqûres seules ne suffisent pas à conclure (voir <a href="/piqures-punaises-de-lit.html">piqûres de punaises de lit</a>).</li>
+<li><strong>Ne déplacez rien</strong> d'une pièce à l'autre et n'allez pas dormir ailleurs sans précaution : vous risquez d'étendre l'infestation.</li>
+<li><strong>Lavez le linge à 60 °C</strong> ou passez-le au sèche-linge chaud au moins 30 minutes, puis rangez-le dans des sacs fermés, comme le recommande le site officiel stop-punaises.gouv.fr.</li>
+<li><strong>N'utilisez pas d'insecticide en spray ou en diffuseur</strong> : ils dispersent les punaises sans les éliminer (voir <a href="/terre-de-diatomee-insecticides-remedes-punaises-de-lit.html">ce qui marche et ce qui ne marche pas</a>).</li>
+<li><strong>Faites établir un diagnostic</strong> par une entreprise certifiée, puis comparez les devis. Notre guide <a href="/que-faire-punaises-de-lit.html">que faire en attendant le professionnel</a> détaille la préparation.</li>
+</ol>
+<h2>Se débarrasser d'un matelas ou d'un meuble infesté à Balma</h2>
+<p>Ne déposez jamais un matelas infesté sur le trottoir sans rendez-vous ni près des conteneurs : il peut être récupéré et contaminer un autre foyer, et le dépôt sauvage est passible d'une amende pouvant aller jusqu'à 1 500 € selon Toulouse Métropole. Emballez-le dans un film plastique fermé et rendez-le inutilisable (voir <a href="/faut-il-jeter-matelas-punaises-de-lit.html">faut-il jeter son matelas ?</a>). À Balma, les déchets relèvent de Toulouse Métropole :</p>
+<ul>
+<li><strong>Déchèterie</strong> : il n'y a pas de déchèterie sur la commune. La plus proche dans la liste de Toulouse Métropole est celle de L'Union, rue d'Ariane. Les déchèteries sont gérées par Decoset et le Pass déchèterie, gratuit, est obligatoire depuis le 1er mars 2024 (demande sur decoset.fr). Toulouse Métropole recommande l'apport en déchèterie, les délais de collecte des encombrants étant longs.</li>
+<li><strong>Collecte des encombrants</strong> : uniquement sur rendez-vous, en ligne sur le site de Toulouse Métropole ou au 0800 201 440 (appel gratuit depuis un poste fixe) pour les communes de la métropole hors Toulouse. Les objets sont sortis au plus tôt la veille à 20 h, avec le numéro de demande visible, et seuls les objets déclarés sont enlevés. Le matelas ne figure pas explicitement dans la liste publiée : précisez-le lors de la prise de rendez-vous et signalez qu'il est emballé.</li>
+</ul>
+<h2>Les contacts utiles à Balma et autour</h2>
+<ul>
+<li><strong>Mairie de Balma</strong> : 8 allée de l'Appel du 18 Juin 1940, 31130 Balma, 05 61 24 92 92.</li>
+<li><strong>Toulouse Métropole, déchets</strong> : 0800 201 440 pour les questions de collecte, d'encombrants et de déchèteries.</li>
+<li><strong>ADIL de la Haute-Garonne</strong> : 4 rue Furgole, 31000 Toulouse, 05 61 22 46 22. Information juridique gratuite pour les locataires et les propriétaires, par exemple en cas de désaccord sur la prise en charge du traitement.</li>
+<li><strong>Information nationale</strong> : 0806 706 806 (prix d'un appel local) et <a href="https://stop-punaises.gouv.fr/" rel="noopener">stop-punaises.gouv.fr</a>.</li>
+<li><strong>Votre médecin ou votre pharmacien</strong> si les piqûres provoquent une forte réaction ou une gêne importante.</li>
+</ul>
+<h2>Combien coûte un traitement à Balma ?</h2>
+<p>Aucune source publique ne donne de tarif propre à Balma : les fourchettes observées pour l'agglomération toulousaine servent de repère, et certaines entreprises ajoutent des frais de déplacement. Le prix dépend surtout de la surface, du nombre de pièces touchées, du degré d'infestation et de la méthode (chaleur, vapeur, cryogénie, produits biocides, souvent combinés). Une maison entière coûte en général bien plus cher qu'une chambre ou un studio. Nos fourchettes de prix, sourcées et mises à jour, sont dans le guide <a href="/prix-traitement-punaises-de-lit-toulouse.html">prix d'un traitement contre les punaises de lit à Toulouse</a>.</p>
+<h2>Bien choisir l'entreprise</h2>
+<ul>
+<li>Exigez le <strong>certificat Certibiocide</strong> si l'entreprise utilise des produits biocides.</li>
+<li>Demandez un <strong>diagnostic avant devis</strong> et un devis écrit détaillé : méthode, nombre de passages, délai entre les passages, garantie éventuelle.</li>
+<li>Méfiez-vous des prix annoncés au téléphone sans visite et des demandes de paiement intégral avant intervention.</li>
+</ul>
+<p class="note">Sources consultées le 9 novembre 2026 : Insee, population municipale et recensement 2023 (type de logement, statut d'occupation, données reprises par villesavivre.fr) ; base Banatic du ministère de l'Intérieur (rattachement de la commune à Toulouse Métropole, population municipale, coordonnées de la mairie) ; Toulouse Métropole, pages commune de Balma, encombrants (mise à jour du 14 octobre 2026) et déchèteries ; stop-punaises.gouv.fr ; loi n° 89-462 du 6 juillet 1989, article 6. Tada House est un service de mise en relation, sans lien avec la mairie de Balma ni Toulouse Métropole.</p>''',
+faq=[("Qui contacter à Balma en cas de punaises de lit ?","Pour le traitement, une entreprise de désinsectisation certifiée. Pour vos droits de locataire ou de propriétaire, l'ADIL de la Haute-Garonne (05 61 22 46 22) informe gratuitement. La mairie de Balma (05 61 24 92 92) peut vous orienter dans vos démarches."),
+("Comment jeter un matelas infesté à Balma ?","Emballez-le dans un film plastique fermé et rendez-le inutilisable, puis apportez-le en déchèterie, par exemple à L'Union, avec votre Pass déchèterie gratuit. Vous pouvez aussi prendre rendez-vous pour la collecte des encombrants au 0800 201 440 en précisant qu'il s'agit d'un matelas emballé. Ne le laissez jamais sur le trottoir sans rendez-vous."),
+("Le prix est-il différent à Balma et à Toulouse ?","Aucune source publique ne donne de tarif propre à Balma. Les fourchettes de prix de l'agglomération toulousaine servent de repère ; certaines entreprises facturent en plus un déplacement. Faites préciser ce point sur le devis.")],
+date='2026-11-09')
 
 print('ok')
